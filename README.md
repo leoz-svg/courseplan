@@ -1,8 +1,8 @@
-# CoursePlan AI · UTS 课程规划工作区
+# CoursePlan · UTS 课程规划工作区
 
 基于UTS官方2024历史课程资料的多专业课程规划原型，提供依赖图、学期安排、个人学分目标、本地账号、Ollama向量RAG和约束求解。
 
-[在线演示](https://leoz-svg.github.io/courseplan-ai/) · [开发日志 / 技术栈 / 挑战复盘](documentation/DEVELOPMENT_LOG.zh-CN.md) · [部署说明](documentation/DEPLOYMENT.md) · [保留的旧项目](https://github.com/leoz-svg/uts-course-planner)
+[在线演示](https://leoz-svg.github.io/courseplan/) · [开发日志 / 技术栈 / 挑战复盘](documentation/DEVELOPMENT_LOG.zh-CN.md) · [部署说明](documentation/DEPLOYMENT.md) · [保留的旧项目](https://github.com/leoz-svg/uts-course-planner)
 
 ![完整课程依赖图](public/screenshots/course-graph-all.png)
 
@@ -53,7 +53,7 @@ npm run build
 npm run build:pages
 ```
 
-静态构建在`.pages-build`隔离目录中完成，输出`.pages-build/out`，默认basePath为`/courseplan-ai`。源码中的API目录不会被临时移走；本地账号与模型不参与静态构建。Pages工作流说明见[DEPLOYMENT.md](documentation/DEPLOYMENT.md)。
+静态构建在`.pages-build`隔离目录中完成，输出`.pages-build/out`，默认basePath为`/courseplan`。源码中的API目录不会被临时移走；本地账号与模型不参与静态构建。Pages工作流说明见[DEPLOYMENT.md](documentation/DEPLOYMENT.md)。
 
 ## 数据与模型
 

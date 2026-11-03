@@ -1,6 +1,6 @@
 # 发布与部署
 
-目标仓库为leoz-svg/courseplan-ai，旧uts-course-planner保持原状。默认演示路径为/courseplan-ai，最终站点地址为https://leoz-svg.github.io/courseplan-ai/。只有实际部署成功并通过HTTP/页面验证后，才可称为上线。
+目标仓库为leoz-svg/courseplan，旧uts-course-planner保持原状。默认演示路径为/courseplan，最终站点地址为https://leoz-svg.github.io/courseplan/。只有实际部署成功并通过HTTP/页面验证后，才可称为上线。
 
 ## GitHub Pages
 
@@ -17,7 +17,7 @@ npm run build:pages
 
 输出为.pages-build/out。脚本只向明确限定的.pages-build目录写入/清理构建副本；复制app时排除API，使用原node_modules的本机链接。不会重命名原始app/api目录或改动.local-data。本目录应忽略，不要把链接或依赖上传。
 
-若更改仓库名，用NEXT_PUBLIC_BASE_PATH指定新basePath并更新README和相关仓库链接。不能把out/index.html直接用file协议打开；需要静态HTTP服务器并映射/courseplan-ai路径。
+若更改仓库名，用NEXT_PUBLIC_BASE_PATH指定新basePath并更新README和相关仓库链接。不能把out/index.html直接用file协议打开；需要静态HTTP服务器并映射/courseplan路径。
 
 ## 完整服务端运行
 
