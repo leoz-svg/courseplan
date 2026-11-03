@@ -1,0 +1,3847 @@
+[
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31250",
+    "title": "Introduction to Data Analytics",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31250.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31250",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31250.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31040 Data Mining and Knowledge Discovery AND 32130 Fundamentals of Data Analytics"
+        },
+        "raw_text": "31040 Data Mining and Knowledge Discovery AND 32130 Fundamentals of Data Analytics",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31250.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31250",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31251",
+    "title": "Data Structures and Algorithms",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31251.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31251",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "48024",
+          "timing": "prior"
+        },
+        "raw_text": "48024 Programming 2",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31251.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31473 Data Structures and Procedural Programming AND 32510 Principles of Object-oriented Programming in C++"
+        },
+        "raw_text": "31473 Data Structures and Procedural Programming AND 32510 Principles of Object-oriented Programming in C++",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31251.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31251",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31256",
+    "title": "Image Processing and Pattern Recognition",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31256.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31256",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48024",
+              "timing": "prior"
+            },
+            {
+              "op": "all",
+              "children": [
+                {
+                  "op": "any",
+                  "children": [
+                    {
+                      "op": "subject",
+                      "code": "41039",
+                      "timing": "prior"
+                    },
+                    {
+                      "op": "subject",
+                      "code": "48023",
+                      "timing": "prior"
+                    }
+                  ]
+                },
+                {
+                  "op": "subject",
+                  "code": "41085",
+                  "timing": "prior"
+                }
+              ]
+            }
+          ]
+        },
+        "raw_text": "( 48024 Programming 2 OR (( 41039 Programming 1 OR 48023 Programming Fundamentals) AND 41085 Fundamentals Studio B))",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31256.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31256",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31257",
+    "title": "Information System Development Methodologies",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31257.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31257",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "31269",
+          "timing": "prior"
+        },
+        "raw_text": "31269 Business Requirements Modelling",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31257.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31092 Information Systems Development Approaches"
+        },
+        "raw_text": "31092 Information Systems Development Approaches",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31257.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31257",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31260",
+    "title": "Fundamentals of Interaction Design",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31260.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31260",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48023",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "41039",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "48023 Programming Fundamentals OR 41039 Programming 1",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31260.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "42017 Fundamentals of Interaction Design"
+        },
+        "raw_text": "42017 Fundamentals of Interaction Design",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31260.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31260",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31261",
+    "title": "Internetworking Project",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31261.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31261",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "31272",
+          "timing": "prior"
+        },
+        "raw_text": "31272 Project Management and the Professional There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31261.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31261",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "December",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31262",
+    "title": "Game Design Methodologies",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31262.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31262",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "31263",
+          "timing": "prior"
+        },
+        "raw_text": "31263 Introduction to Computer Game Development",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31262.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31002 Introduction to Computer Game Design AND 32003 Computer Game Design"
+        },
+        "raw_text": "31002 Introduction to Computer Game Design AND 32003 Computer Game Design",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31262.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31262",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31263",
+    "title": "Introduction to Computer Game Development",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31263.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31263",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48024",
+              "timing": "concurrent"
+            },
+            {
+              "op": "subject",
+              "code": "31080",
+              "timing": "concurrent"
+            }
+          ]
+        },
+        "raw_text": "48024c Programming 2 OR 31080c Interactive Media The lower case 'c' after the subject code indicates that the subject is a corequisite. See definitions for details.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31263.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31004 Introduction to Game Programming AND 32004 Game Development"
+        },
+        "raw_text": "31004 Introduction to Game Programming AND 32004 Game Development",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31263.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31263",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31264",
+    "title": "Computer Graphics",
+    "credit_points": 6,
+    "faculty": null,
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31264.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31264",
+    "requirements_status": "academic_only",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31080",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31263",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "Requisite(s): 31080 Interactive Media  OR 31263 Introduction to Computer Game Development",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31264.html",
+        "review_status": "reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "Anti-requisite(s): 31140 Introduction to Computer Graphics  AND 32501 Computer Graphics"
+        },
+        "raw_text": "Anti-requisite(s): 31140 Introduction to Computer Graphics  AND 32501 Computer Graphics",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31264.html",
+        "review_status": "review_required"
+      },
+      {
+        "kind": "recommended",
+        "expression": {
+          "op": "manual",
+          "text": "Recommended studies: some experience with an integrated development environment such as Visual Studio would be an advantage, but is not essential; knowledge of linear algebra (e.g. vectors, matrices and their manipulation), data structures (e.g. multi-dimensional arrays, stack) is strongly recommended; good programming skills in at least one programming language is required to successfully complete the subject"
+        },
+        "raw_text": "Recommended studies: some experience with an integrated development environment such as Visual Studio would be an advantage, but is not essential; knowledge of linear algebra (e.g. vectors, matrices and their manipulation), data structures (e.g. multi-dimensional arrays, stack) is strongly recommended; good programming skills in at least one programming language is required to successfully complete the subject",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31264.html",
+        "review_status": "review_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31268",
+    "title": "Web Systems",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31268.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31268",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31268.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "32547 UNIX Systems Programming"
+        },
+        "raw_text": "32547 UNIX Systems Programming",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31268.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31268",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31269",
+    "title": "Business Requirements Modelling",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31269.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31269",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "credits",
+          "minimum": 18
+        },
+        "raw_text": "18 credit points of completed study in any Bachelor's degree OR 18 credit points of completed study in any Bachelor's Honours Embedded OR 18 credit points of completed study in any Bachelor's Combined Degree OR 18 credit points of completed study in any Bachelor's Combined Honours These requisites may not apply to students in certain courses. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31269.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31269",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31271",
+    "title": "Database Fundamentals",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31271.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31271",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48023",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "37171",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "48430",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "41039",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "48023 Programming Fundamentals OR 37171 Introduction to Programming OR 48430 Fundamentals of C Programming OR 41039 Programming 1",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31271.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31061 Database Principles AND 31474 Database Fundamentals AND 31487 Database Management Systems AND 32606 Database"
+        },
+        "raw_text": "31061 Database Principles AND 31474 Database Fundamentals AND 31487 Database Management Systems AND 32606 Database",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31271.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31271",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31272",
+    "title": "Project Management and the Professional",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31272.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31272",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31269",
+              "timing": "prior"
+            },
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "31265",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48230",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "41078",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "credits",
+              "minimum": 72
+            }
+          ]
+        },
+        "raw_text": "( 31269 Business Requirements Modelling AND ( 31265 Communication for IT Professionals OR 48230 Introduction to Engineering Projects OR 41078 Computing Science Studio 1) AND (72 credit points of completed study in Bachelor's Degree owned by FEIT OR 72 credit points of completed study in Bachelor's Honours Embedded owned by FEIT OR 72 credit points of completed study in Bachelor's Combined Degree owned by FEIT OR 72 credit points of completed study in Bachelor's Combined Honours owned by FEIT OR 72 credit points of completed study in Bachelor's Combined Degree co-owned by FEIT OR 72 credit points of completed study in Bachelor's Combined Honours co-owned by FEIT))",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31272.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "32541 Project Management AND 48260 Engineering Project Management"
+        },
+        "raw_text": "32541 Project Management AND 48260 Engineering Project Management",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31272.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31272",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41039",
+    "title": "Programming 1",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41039.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41039",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41039.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "48023 Programming Fundamentals Fields of practice: Computing Science"
+        },
+        "raw_text": "48023 Programming Fundamentals Fields of practice: Computing Science",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41039.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41039",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "48023",
+    "title": "Programming Fundamentals",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48023.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48023",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48023.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31267 Programming Fundamentals AND 31465 Object-oriented Programming AND 31488 Programming Foundations AND 31508 Programming Fundamentals AND 37171 Introduction to Programming for Mathematics AND 41039 Programming 1"
+        },
+        "raw_text": "31267 Programming Fundamentals AND 31465 Object-oriented Programming AND 31488 Programming Foundations AND 31508 Programming Fundamentals AND 37171 Introduction to Programming for Mathematics AND 41039 Programming 1",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48023.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48023",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "48024",
+    "title": "Programming 2",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48024.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48024",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48023",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31267",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31465",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "48430",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "41039",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "48023 Programming Fundamentals OR 31267 Programming Fundamentals OR 31465 Object-oriented Programming OR 48430 Fundamentals of C Programming OR 41039 Programming 1",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48024.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31244 Applications Programming AND 31469 Object-oriented Design"
+        },
+        "raw_text": "31244 Applications Programming AND 31469 Object-oriented Design",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48024.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48024",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31005",
+    "title": "Machine Learning",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31005.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31005",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31250",
+              "timing": "prior"
+            },
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "48024",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "41091",
+                  "timing": "prior"
+                }
+              ]
+            }
+          ]
+        },
+        "raw_text": "( 31250 Introduction to Data Analytics AND ( 48024 Programming 2 OR 41091 Data Systems))",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31005.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31005",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31080",
+    "title": "Interactive Media",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31080.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31080",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48023",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "41039",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "48023 Programming Fundamentals OR 41039 Programming 1",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31080.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "32027 Interactive Media"
+        },
+        "raw_text": "32027 Interactive Media",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31080.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31080",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31097",
+    "title": "IT Operations Management",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31097.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31097",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "31270",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "31268",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "41092",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "subject",
+              "code": "31266",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "((31270 Networking Essentials OR 31268 Web Systems OR 41092 Network Fundamentals) AND 31266 Introduction to Information Systems)",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31097.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31097",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31242",
+    "title": "Advanced Internet Programming",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31242.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31242",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31244",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31469",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "48024",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "31244 Applications Programming OR 31469 Object-oriented Design OR 48024 Programming 2",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31242.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31337 Advanced Internet Technologies AND 32549 Advanced Internet Programming"
+        },
+        "raw_text": "31337 Advanced Internet Technologies AND 32549 Advanced Internet Programming",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31242.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31242",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31243",
+    "title": "AI/Analytics Capstone Project B",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31243.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31243",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "41004",
+          "timing": "prior"
+        },
+        "raw_text": "41004 AI/Analytics Capstone Project",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31243.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31243",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31245",
+    "title": "Business Process and IT Strategy",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31245.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31245",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31276",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31257",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "31276 Networked Enterprise Architecture OR 31257 Information System Development Methodologies",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31245.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31736 Business Processes and IT Strategy"
+        },
+        "raw_text": "31736 Business Processes and IT Strategy",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31245.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31245",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31247",
+    "title": "Collaborative Business Processes",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31247.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31247",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "31266",
+          "timing": "prior"
+        },
+        "raw_text": "31266 Introduction to Information Systems",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31247.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31247",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31253",
+    "title": "Database Programming",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31253.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31253",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31271",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31061",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31474",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31487",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "31271 Database Fundamentals OR 31061 Database Principles OR 31474 Database Fundamentals OR 31487 Database Management Systems",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31253.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31099 Distributed Database Programming and Administration"
+        },
+        "raw_text": "31099 Distributed Database Programming and Administration",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31253.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31253",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31255",
+    "title": "Finance and IT Professionals",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31255.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31255",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "31266",
+          "timing": "prior"
+        },
+        "raw_text": "31266 Introduction to Information Systems",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31255.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31255",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31258",
+    "title": "Innovations for Global Relationship Management",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31258.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31258",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31269",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31475",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "31269 Business Requirements Modelling OR 31475 Requirements Engineering",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31258.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31258",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31265",
+    "title": "Communication for IT Professionals",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31265.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31265",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31265.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "48230 Introduction to Engineering Projects"
+        },
+        "raw_text": "48230 Introduction to Engineering Projects",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31265.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31265",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31266",
+    "title": "Introduction to Information Systems",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31266.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31266",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31266.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31060 Information Systems Principles AND 31414 Information Systems AND 31472 Introduction to Collaborative Systems AND 31484 Information Systems Foundations AND 32557 Enabling Enterprise Information Systems"
+        },
+        "raw_text": "31060 Information Systems Principles AND 31414 Information Systems AND 31472 Introduction to Collaborative Systems AND 31484 Information Systems Foundations AND 32557 Enabling Enterprise Information Systems",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31266.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31266",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31275",
+    "title": "Mobile Networking",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31275.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31275",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31270",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "48720",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "41092",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "31270 Networking Essentials OR 48720 Network Fundamentals OR 41092 Network Fundamentals",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31275.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31275",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31276",
+    "title": "Networked Enterprise Architecture",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31276.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31276",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31269",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31247",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "31269 Business Requirements Modelling OR 31247 Collaborative Business Processes",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31276.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31276",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31277",
+    "title": "Routing and Switching Essentials",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31277.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31277",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31270",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "41092",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "31270 Networking Essentials OR 41092 Network Fundamentals",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31277.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "32524 LANS and Routing"
+        },
+        "raw_text": "32524 LANS and Routing",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31277.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31277",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31280",
+    "title": "Strategic IT Project",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31280.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31280",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "31272",
+          "timing": "prior"
+        },
+        "raw_text": "31272 Project Management and the Professional",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31280.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31280",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31282",
+    "title": "Systems Testing and Quality Management",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31282.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31282",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "31269",
+          "timing": "prior"
+        },
+        "raw_text": "31269 Business Requirements Modelling These requisites may not apply to students in certain courses. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31282.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31282",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31338",
+    "title": "Network Servers",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31338.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31338",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31268",
+              "timing": "prior"
+            },
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "31270",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48720",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "41092",
+                  "timing": "prior"
+                }
+              ]
+            }
+          ]
+        },
+        "raw_text": "( 31268 Web Systems AND (31270 Networking Essentials OR 48720 Network Fundamentals OR 41092 Network Fundamentals))",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31338.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "32520 Systems Administration"
+        },
+        "raw_text": "32520 Systems Administration",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31338.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31338",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31748",
+    "title": "Programming on the Internet",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31748.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31748",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31268",
+              "timing": "prior"
+            },
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "31267",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "31465",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "31488",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "31508",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48023",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "41039",
+                  "timing": "prior"
+                }
+              ]
+            }
+          ]
+        },
+        "raw_text": "( 31268 Web Systems AND (31267 Programming Fundamentals OR 31465 Object-oriented Programming OR 31488 Programming Foundations OR 31508 Programming Fundamentals OR 48023 Programming Fundamentals OR 41039 Programming 1))",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31748.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31336 Internet Middleware Programming AND 32516 Internet Programming"
+        },
+        "raw_text": "31336 Internet Middleware Programming AND 32516 Internet Programming",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31748.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31748",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31777",
+    "title": "Advanced Interaction Design",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31777.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31777",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "31260",
+          "timing": "prior"
+        },
+        "raw_text": "31260 Fundamentals of Interaction Design",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31777.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "32509 Advanced Interaction Design"
+        },
+        "raw_text": "32509 Advanced Interaction Design",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31777.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31777",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "31927",
+    "title": "Application Development with .NET",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31927.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31927",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "48024",
+          "timing": "prior"
+        },
+        "raw_text": "48024 Programming 2",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31927.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "32998 .NET Application Development"
+        },
+        "raw_text": "32998 .NET Application Development",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31927.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=31927",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "32009",
+    "title": "Advanced Routing Principles",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/32009.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=32009",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "manual",
+          "text": "( 32524 LANS and Routing OR (30 credit points of completed study in spk(s): MAJ03445 Networking and Cybersecurity major BSc AND 31277 Routing and Switching Essentials))"
+        },
+        "raw_text": "( 32524 LANS and Routing OR (30 credit points of completed study in spk(s): MAJ03445 Networking and Cybersecurity major BSc AND 31277 Routing and Switching Essentials))",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/32009.html",
+        "review_status": "manual_required"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=32009",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "32011",
+    "title": "Multilayer Switched Networks",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/32011.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=32011",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "manual",
+          "text": "( 32524 LANS and Routing OR ( 31277 Routing and Switching Essentials AND 30 credit points of completed study in spk(s): MAJ03445 Networking and Cybersecurity major BSc))"
+        },
+        "raw_text": "( 32524 LANS and Routing OR ( 31277 Routing and Switching Essentials AND 30 credit points of completed study in spk(s): MAJ03445 Networking and Cybersecurity major BSc))",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/32011.html",
+        "review_status": "manual_required"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=32011",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "32146",
+    "title": "Data Visualisation and Visual Analytics",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/32146.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=32146",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "all",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "31250",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48024",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "subject",
+              "code": "32130",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "26776",
+              "timing": "prior"
+            },
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "42046",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "42047",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "26777",
+                  "timing": "prior"
+                }
+              ]
+            }
+          ]
+        },
+        "raw_text": "( 31250 Introduction to Data Analytics AND 48024 Programming 2) OR 32130 Fundamentals of Data Analytics OR 26776 Foundations of Business Analytics OR ((42046 Data Processing Using R OR 42047 Data Processing Using Python OR 26777 Data Processing Using SAS))",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/32146.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=32146",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "33116",
+    "title": "Design, Data, and Decisions",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/33116.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=33116",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/33116.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "35151 Introduction to Statistics AND 37151 Introduction to Data Analysis"
+        },
+        "raw_text": "35151 Introduction to Statistics AND 37151 Introduction to Data Analysis",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/33116.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=33116",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "33130",
+    "title": "Mathematics 1",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/33130.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=33130",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/33130.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "33190 Mathematical Modelling for Science AND 35101 Introduction to Linear Dynamical Systems AND 37131 Introduction to Linear Dynamical Systems AND Spks Between C10154 and C10158"
+        },
+        "raw_text": "33190 Mathematical Modelling for Science AND 35101 Introduction to Linear Dynamical Systems AND 37131 Introduction to Linear Dynamical Systems AND Spks Between C10154 and C10158",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/33130.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=33130",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41001",
+    "title": "Cloud Computing and Software as a Service",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41001.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41001",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48440",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31244",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31281",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31061",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "48024",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31271",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "48440 Software Engineering Practice OR 31244 Applications Programming OR 31281 Systems Development Project OR 31061 Database Principles OR 48024 Programming 2 OR 31271 Database Fundamentals",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41001.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "42904 Cloud Computing and Software as a Service"
+        },
+        "raw_text": "42904 Cloud Computing and Software as a Service",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41001.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41001",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41004",
+    "title": "AI/Analytics Capstone Project",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41004.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41004",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31250",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31272",
+              "timing": "concurrent"
+            },
+            {
+              "op": "credits",
+              "minimum": 90
+            }
+          ]
+        },
+        "raw_text": "( 31250 Introduction to Data Analytics AND 31272c Project Management and the Professional AND (90 credit points of completed study in spk(s): C10148 Bachelor of Information Technology OR 90 credit points of completed study in spk(s): C10345 Bachelor of Information Technology Diploma Information Technology Professional Practice OR 90 credit points of completed study in spk(s): C10245 Bachelor of Information Technology Bachelor of Laws OR 90 credit points of completed study in spk(s): C10239 Bachelor of Information Technology Bachelor of International Studies OR 90 credit points of completed study in spk(s): C10224 Bachelor of Mathematics and Computing Bachelor of Arts International Studies OR 90 credit points of completed study in spk(s): C10219 Bachelor of Information Technology Bachelor of Business OR 90 credit points of completed study in spk(s): C10158 Bachelor of Mathematics and Computing OR 90 credit points of completed study in spk(s): C10152 Bachelor of Science Information Technology Diploma Information Technology Professional Practice OR 90 credit points of completed study in spk(s): C09119 Bachelor of Computing Science (Honours))) The lower case 'c' after the subject code indicates that the subject is a corequisite. See definitions for details.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41004.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41004",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41019",
+    "title": "Prototyping Physical Interaction",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41019.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41019",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "31260",
+          "timing": "prior"
+        },
+        "raw_text": "31260 Fundamentals of Interaction Design",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41019.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "42070 Prototyping Physical Interaction"
+        },
+        "raw_text": "42070 Prototyping Physical Interaction",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41019.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41019",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41020",
+    "title": "Human-centred Design Methods",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41020.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41020",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41020.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "32405 Human-Centred Design Research Methods"
+        },
+        "raw_text": "32405 Human-Centred Design Research Methods",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41020.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41020",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41021",
+    "title": "Interaction Design Studio",
+    "credit_points": 12,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41021.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41021",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "41019",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31777",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31080",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31272",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "41019 Prototyping Physical Interaction AND 31777 Advanced Interaction Design AND 31080 Interactive Media AND 31272 Project Management and the Professional Fields of practice: Interaction Design",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41021.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41021",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41025",
+    "title": "Introduction to Software Development",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41025.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41025",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48023",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "48430",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "41039",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "48023 Programming Fundamentals OR 48430 Fundamentals of C Programming OR 41039 Programming 1",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41025.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41025",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41026",
+    "title": "Advanced Software Development",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41026.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41026",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "41025",
+          "timing": "prior"
+        },
+        "raw_text": "41025 Introduction to Software Development",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41026.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41026",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41092",
+    "title": "Network Fundamentals",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41092.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41092",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41092.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31270 Networking Essentials AND 32524 LANS and Routing AND 48720 Network Fundamentals AND 49202 Communication Protocols"
+        },
+        "raw_text": "31270 Networking Essentials AND 32524 LANS and Routing AND 48720 Network Fundamentals AND 49202 Communication Protocols",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41092.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41092",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41113",
+    "title": "Software Development Studio",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41113.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41113",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31257",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "41025",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "41192",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "31257 Information System Development Methodologies OR 41025 Introduction to Software Development OR 41192 IS Value Creation Studio These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41113.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41113",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41889",
+    "title": "Application Development in the iOS Environment",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41889.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41889",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48023",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31267",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "41039",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "48023 Programming Fundamentals OR 31267 Programming Fundamentals OR 41039 Programming 1",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41889.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "42889 iOS Application Development"
+        },
+        "raw_text": "42889 iOS Application Development",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41889.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41889",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41890",
+    "title": "Applying Network Security",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41890.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41890",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48730",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31277",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "48730 Cybersecurity AND 31277 Routing and Switching Essentials",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41890.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "32310 Network Security Appliances"
+        },
+        "raw_text": "32310 Network Security Appliances",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41890.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41890",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41891",
+    "title": "Cloud Computing Infrastructure",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41891.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41891",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31270",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "41092",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "31270 Networking Essentials OR 41092 Network Fundamentals",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41891.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "42891 Infrastructure for Cloud Computing"
+        },
+        "raw_text": "42891 Infrastructure for Cloud Computing",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41891.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41891",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41900",
+    "title": "Cryptography",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41900.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41900",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48730",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "65325",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "48730 Cybersecurity OR 65325 Digital Trace and Identity",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41900.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41900",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41903",
+    "title": "Internet Science",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41903.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41903",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "41092",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "31270",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48720",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "credits",
+              "minimum": 96
+            }
+          ]
+        },
+        "raw_text": "( 41092 Network Fundamentals OR 31270 Networking Essentials OR 48720 Network Fundamentals) AND (96 credit points of completed study in Bachelor's Degree owned by FEIT OR 96 credit points of completed study in Bachelor's Honours Embedded owned by FEIT OR 96 credit points of completed study in Bachelor's Combined Degree owned by FEIT OR 96 credit points of completed study in Bachelor's Combined Honours owned by FEIT OR 96 credit points of completed study in Bachelor's Combined Degree co-owned by FEIT OR 96 credit points of completed study in Bachelor's Combined Honours co-owned by FEIT)",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41903.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "48740 Communications Networks Fields of practice: ICT Engineering"
+        },
+        "raw_text": "48740 Communications Networks Fields of practice: ICT Engineering",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41903.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41903",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "41905",
+    "title": "Software Defined Networks",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41905.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41905",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "31277",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48740",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "subject",
+              "code": "41039",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "(( 31277 Routing and Switching Essentials OR 48740 Communications Networks) AND 41039 Programming 1)",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41905.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=41905",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "42036",
+    "title": "Cyber Security for Mobile Platforms",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/42036.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=42036",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "manual",
+          "text": "( 32548 Cybersecurity OR ( 48730 Cybersecurity AND 30 credit points of completed study in spk(s): MAJ03445 Networking and Cybersecurity major BSc )) These requisites may not apply to students in certain courses. See access conditions ."
+        },
+        "raw_text": "( 32548 Cybersecurity OR ( 48730 Cybersecurity AND 30 credit points of completed study in spk(s): MAJ03445 Networking and Cybersecurity major BSc )) These requisites may not apply to students in certain courses. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/42036.html",
+        "review_status": "manual_required"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=42036",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "42037",
+    "title": "IoT Security",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/42037.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=42037",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "manual",
+          "text": "( 32548 Cybersecurity OR ( 48730 Cybersecurity AND 30 credit points of completed study in spk(s): MAJ03445 Networking and Cybersecurity major BSc )) These requisites may not apply to students in certain courses. See access conditions ."
+        },
+        "raw_text": "( 32548 Cybersecurity OR ( 48730 Cybersecurity AND 30 credit points of completed study in spk(s): MAJ03445 Networking and Cybersecurity major BSc )) These requisites may not apply to students in certain courses. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/42037.html",
+        "review_status": "manual_required"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=42037",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "48033",
+    "title": "Internet of Things",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48033.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48033",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "48023",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48430",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "41039",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "31270",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48720",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48740",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "41092",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "41090",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48540",
+                  "timing": "prior"
+                }
+              ]
+            }
+          ]
+        },
+        "raw_text": "( 48023 Programming Fundamentals OR 48430 Fundamentals of C Programming OR 41039 Programming 1) AND (31270 Networking Essentials OR 48720 Network Fundamentals OR 48740 Communications Networks OR 41092 Network Fundamentals OR 41090 Information and Signals OR 48540 Signals and Systems)",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48033.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48033",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "48270",
+    "title": "Entrepreneurship and Commercialisation",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48270.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48270",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "credits",
+          "minimum": 120
+        },
+        "raw_text": "120 credit points of completed study in Bachelor's Degree owned by FEIT OR 120 credit points of completed study in Bachelor's Honours Embedded owned by FEIT OR 120 credit points of completed study in Bachelor's Combined Degree owned by FEIT OR 120 credit points of completed study in Bachelor's Combined Honours owned by FEIT OR 120 credit points of completed study in Bachelor's Combined Honours co-owned by FEIT OR 120 credit points of completed study in Bachelor's Combined Degree co-owned by FEIT",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48270.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48270",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "48433",
+    "title": "Software Architecture",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48433.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48433",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "48440",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31469",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31279",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "31244",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "48024",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "48440 Software Engineering Practice OR 31469 Object-oriented Design OR 31279 Software Development and Processes OR 31244 Applications Programming OR 48024 Programming 2",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48433.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "31278 Software Architecture"
+        },
+        "raw_text": "31278 Software Architecture",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48433.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48433",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "48436",
+    "title": "Digital Forensics",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48436.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48436",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "48730",
+          "timing": "prior"
+        },
+        "raw_text": "48730 Cybersecurity",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48436.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "32309 Digital Forensics"
+        },
+        "raw_text": "32309 Digital Forensics",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48436.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48436",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "48450",
+    "title": "Real-time Operating Systems",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48450.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48450",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "31251",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "48430",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "31251 Data Structures and Algorithms OR 48430 Fundamentals of C Programming Fields of practice: Computer Systems Engineering program",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48450.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48450",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-computing-snapshot",
+    "code": "48730",
+    "title": "Cybersecurity",
+    "credit_points": 6,
+    "faculty": "Engineering and Information Technology",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48730.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48730",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "31268",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48410",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "41082",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "65325",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48450",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48033",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "31270",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "41092",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "48720",
+                  "timing": "prior"
+                }
+              ]
+            }
+          ]
+        },
+        "raw_text": "( 31268 Web Systems OR 48410 Introduction to ICT Engineering OR 41082 Introduction to Data Engineering OR 65325 Digital Trace and Identity OR 48450 Real-time Operating Systems OR 48033 Internet of Things)) AND ((31270 Networking Essentials OR 41092 Network Fundamentals OR 48720 Network Fundamentals)",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48730.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "32548 Cybersecurity"
+        },
+        "raw_text": "32548 Cybersecurity",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48730.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=48730",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  }
+]

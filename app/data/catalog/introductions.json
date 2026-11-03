@@ -1,0 +1,1519 @@
+[
+  {
+    "code": "31250",
+    "summary_zh": "学习数据分析、数据挖掘与知识发现的基础方法，将原始数据转化为有用的信息。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31250.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31251",
+    "summary_zh": "学习设计、评估和实现数据结构与算法，并用 C++ 编写解决方案。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31251.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31256",
+    "summary_zh": "学习图像处理和模式识别，通过软件自动分析、理解图像与视频信息。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31256.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31257",
+    "summary_zh": "比较不同的信息系统开发方法，理解各自优缺点及其在软件项目中的应用。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31257.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31260",
+    "summary_zh": "学习以人为中心的交互设计，运用设计与评估方法提升计算机系统的易用性。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31260.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31261",
+    "summary_zh": "通过团队项目完成互联网络方案的设计、搭建与实现，把网络理论应用到实践。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31261.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31262",
+    "summary_zh": "学习游戏构思、设计沟通、实现与迭代方法，为目标玩家打磨游戏体验。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31262.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31263",
+    "summary_zh": "使用 Unity 游戏引擎学习游戏开发，通过编程和二维、三维对象变换解决交互问题。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31263.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31264",
+    "summary_zh": "学习计算机图形学基础，并使用 WebGL 与 Three.js 设计和实现交互式三维图像。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31264.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31268",
+    "summary_zh": "以网站为入口认识硬件、软件、网络和操作系统，并动手搭建可运行的网站。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31268.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31269",
+    "summary_zh": "学习需求获取、分析与建模，用业务流程和实体关系等模型描述系统需求。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31269.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31271",
+    "summary_zh": "学习数据库设计和数据管理基础，并使用 SQL 查询与修改数据。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31271.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "31272",
+    "summary_zh": "学习信息系统项目的规划与管理，理解团队角色、职业伦理和项目生命周期。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/31272.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "41039",
+    "summary_zh": "通过面向对象编程与项目实践学习核心编程概念，培养解决问题和改进代码的能力。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/41039.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "48023",
+    "summary_zh": "从零学习 Java 编程，认识面向对象、数据流、控制流和基本数据结构。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/48023.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "48024",
+    "summary_zh": "使用 Java 或 Python 设计、开发和评估软件系统，并将所学应用到业务系统架构中。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/48024.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87631",
+    "summary_zh": "通过图像与文字的工作室项目，学习视觉传达的形式基础和社会议题表达。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87631.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87100",
+    "summary_zh": "研究图像与视觉文化的历史和理论，培养分析与反思设计实践的能力。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87100.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "85503",
+    "summary_zh": "学习设计研究与思考方法，通过团队协作定义问题、提出并评估设计方案。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85503.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87632",
+    "summary_zh": "在图像与文字设计项目中讨论伦理问题，探索负责任的视觉表达方式。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87632.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87222",
+    "summary_zh": "通过持续迭代的设计项目，运用文字、图像与符号组织和传达信息。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87222.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "85502",
+    "summary_zh": "从历史案例理解设计观念，练习视觉分析、研究写作与批判性思考。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85502.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87731",
+    "summary_zh": "运用图像叙事、动态设计和视频设计，探索视觉形式与时间的关系。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87731.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87441",
+    "summary_zh": "研究包容性、社区和技术等设计视角，分析视觉传达实践的社会影响。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87441.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87443",
+    "summary_zh": "学习字体编排、网格与视觉层级，提升文字与图像在印刷设计中的组织能力。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87443.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87009",
+    "summary_zh": "结合设计研究与数字技术，制作并迭代回应人、环境和技术关系的交互原型。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87009.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87832",
+    "summary_zh": "回应真实设计任务，练习提案、作品集与专业呈现，为进入设计行业做准备。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87832.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87011",
+    "summary_zh": "探索机器学习和生成式 AI 等新兴技术与视觉传达设计的交叉实践。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87011.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87012",
+    "summary_zh": "将设计研究方法应用到个人实践，并通过专业作品集表达研究过程与立场。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87012.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "87010",
+    "summary_zh": "通过团队与真实社区客户协作，开展以人为中心、回应社会需求的设计项目。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87010.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "22108",
+    "summary_zh": "从使用者角度理解会计信息与问责，运用电子表格支持财务分析和经营决策。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/22108.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "23115",
+    "summary_zh": "学习市场、政府政策与宏观经济基础，分析经济变化对商业活动的影响。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/23115.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "21212",
+    "summary_zh": "理解组织中的个人与团队，学习沟通、领导、激励和冲突管理的基本方法。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21212.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "26134",
+    "summary_zh": "运用统计与 Excel 分析商业数据，培养基于证据解读和评估信息的能力。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/26134.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "24109",
+    "summary_zh": "学习市场营销基础，从客户需求、竞争和沟通策略出发创造客户价值。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24109.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "25300",
+    "summary_zh": "学习货币时间价值、风险与回报，分析企业投资和融资的基本决策。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25300.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "22208",
+    "summary_zh": "从编制者角度学习财务与管理会计信息，并结合伦理和社会责任分析业务问题。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/22208.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "21214",
+    "summary_zh": "探索企业如何创造社会与环境价值，设计兼顾商业使命和社会影响的方案。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21214.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-02"
+  },
+  {
+    "code": "80035",
+    "summary_en": "This subject explores the history of the body in photography and visual culture.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80035.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "80082",
+    "summary_en": "This subject covers the basic principles of still life photography.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80082.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "80083",
+    "summary_en": "This subject investigates image based practices and the impact that visual culture has on memory.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80083.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "80084",
+    "summary_en": "This subject facilitates an approach to thinking around, and practical application of, the language of fashion photography.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80084.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "83122",
+    "summary_en": "This subject introduces students to constructed textiles through exploring the structural, conceptual and technical opportunities offered by knitting.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/83122.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "84000",
+    "summary_en": "In the framework of the newly formed Material Ecologies Design Lab, the School of Design is offering an elective on digital systems for sustainable production to both product design and architecture students.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/84000.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "84124",
+    "summary_en": "In the framework of the Material Ecologies Design Lab, the School of Design is offering an elective on digital systems for sustainable production to design and architecture students.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/84124.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "85001",
+    "summary_en": "In order to combat climate change there is an urgent need to transition from unsustainable manufacturing and consumption practises, and to develop sustainable materials and systems that promote ecological resilience, repair, and that support the health of our planet.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85001.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "85202",
+    "summary_zh": "探索设计的政治维度，通过构建可感知的未来图景思考不同的生活与社会可能。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85202.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "85302",
+    "summary_en": "The internet is 30-something years old, and social media, at least as we currently tend to use it, just over 10 years old.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85302.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "85840",
+    "summary_en": "We are in a time of climate crisis and there is significant ecological pressure, economic advantage and social value in radically transforming and transitioning our industries to become more sustainable.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85840.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "87007",
+    "summary_zh": "学习印前准备与印刷生产流程，将视觉设计转化为可制作的印刷成果。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87007.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "87539",
+    "summary_en": "Today the web has a pervasive presence in our lives; through it we access information, communicate, connect, experience.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87539.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "87549",
+    "summary_zh": "通过创意编程探索视觉传达的数字表达，将代码作为设计实践的工具。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87549.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "87559",
+    "summary_zh": "探索动态图形中的文字、图像、声音与时间，发展动态视觉表达。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87559.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "87659",
+    "summary_en": "This subject explores moving image through genres such as documentary, short narrative film and the articulation of content through moving images.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87659.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "87749",
+    "summary_zh": "以用户体验为中心，探索设计研究、交互与体验的设计方法。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87749.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "87849",
+    "summary_en": "This subject explores alternative and future-focused ways of interacting and interfacing with digital environments with a broad range of emerging technologies being covered with an eye to designing for the future.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87849.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88000",
+    "summary_en": "The design of small, low function, high aesthetic products and accessories underlies the start up of many small design-oriented businesses whose main focus is the design of this type of consumer product.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88000.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88002",
+    "summary_en": "The design of small, low function, high aesthetic products and accessories underlies the start up of many small design-oriented businesses whose main focus is the design of this type of consumer product.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88002.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88004",
+    "summary_en": "This subject introduces students to the principles of textile print and pattern.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88004.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88006",
+    "summary_en": "This subject is taught as a twelve-week textile elective on campus.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88006.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88007",
+    "summary_en": "This subject introduces students to three-dimensional textiles through an in-depth exploration of thermoplastic and other surface form techniques.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88007.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88011",
+    "summary_en": "This subject offers inspirational and hands-on experience in making black and white photographs.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88011.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88014",
+    "summary_en": "Photography’s longstanding relationship with books is marked from the beginning of photography’s invention.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88014.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88015",
+    "summary_en": "This subject develops cross-cultural design literacy through work integrated learning.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88015.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88016",
+    "summary_en": "Learn about global cinema from a design perspective.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88016.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88304",
+    "summary_en": "In this subject, students gain an understanding of illustration as a tool for communication.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88304.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88308",
+    "summary_zh": "运用动画语言探索动态图像，发展视觉传达中的时间性表达。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88308.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88316",
+    "summary_en": "This subject focuses on the broader more contextual issues of furniture design through an analysis of space and the environment, and related human behavioural issues.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88316.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88404",
+    "summary_en": "Having developed an understanding of illustration techniques as a tool for communication, students now harness this knowledge to acquire experience designing for professional projects including illustrative packaging design, and illustration for products and brands.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88404.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88416",
+    "summary_en": "This subject focuses on the development of the student's understanding of the design process as applied to furniture design.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88416.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88504",
+    "summary_en": "Having developed an understanding of illustration techniques as a tool for communication, students now harness this knowledge to acquire experience illustrating for magazines, newspapers, books and other publications.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88504.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88604",
+    "summary_en": "Having developed an understanding of illustration techniques as a tool for communication, students now apply that knowledge through a series of storytelling exercises and outcomes.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88604.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88801",
+    "summary_en": "This subject covers the basic principles of camera functions and digital photography.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88801.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88805",
+    "summary_zh": "学习摄影的基础方法，通过图像制作与分析发展视觉表达。",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88805.html",
+    "source_year": 2024,
+    "summary_kind": "editorial_chinese_summary",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88831",
+    "summary_en": "This subject provides students with the opportunity to immerse themselves in Indian Artisan culture and gain a deeper understanding of sustainable and ethical print production in relation to Artisan Woodblock Printing.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88831.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88832",
+    "summary_en": "The UTS Fashion and Textile course has a well established history of global studios, which provide students with an opportunity to study in a variety of global locations.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88832.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "88990",
+    "summary_en": "This subject focuses on the development of the student's understanding of generative design.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88990.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "95002",
+    "summary_en": "In this subject, students interrogate their personal and disciplinary mental models, worldviews, biases and assumptions to question the current framing of complex societal problems, by examining a real-world challenge posed by the Australian Red Cross.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95002.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "95003",
+    "summary_en": "This subject introduces students to ways of thinking differently about the ‘wicked’ problems we face when tackling big issues around sustainability.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95003.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "95004",
+    "summary_en": "This subject invites students to explore technology transitions and investigate the complex challenges and opportunities these shifts entail.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95004.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "95005",
+    "summary_en": "In this subject, students playfully explore creative practices, methods and tools from across disciplines and professional domains to generate or discover new ideas and insights about contemporary technological shifts.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95005.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "95006",
+    "summary_en": "This subject introduces students to key concepts and methods from the transdisciplinary field of futures studies.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95006.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "95007",
+    "summary_en": "This subject focuses on bringing together diverse disciplinary and professional perspectives to identify paradigms guiding current thinking in a range of industries and sectors.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95007.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "95008",
+    "summary_en": "This subject invites students to step into the shoes of professionals and decision-makers who are grappling with uncertainty when facing a current and pressing real-world challenge.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95008.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "95009",
+    "summary_en": "This subject develops students’ capacity to understand and lead change in response to emergent complex problems that call for a transdisciplinary approach.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95009.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31005",
+    "summary_zh": "",
+    "summary_en": "Machine learning is an exciting field studying of how intelligent agents can learn from and adapt to experience and how to realise such capacity on digital computers.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31005.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31080",
+    "summary_zh": "",
+    "summary_en": "Interactive media systems are becoming increasingly widespread and have the potential to provide more complex and engaging experiences for users in many domains, including games, the arts, data visualisation/sonification and business.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31080.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31097",
+    "summary_zh": "",
+    "summary_en": "This subject allows students to develop the knowledge and skills required for effective management of hardware, software and human resources within an information systems organisation.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31097.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31242",
+    "summary_zh": "",
+    "summary_en": "In this subject students create sophisticated web applications for deployment to production.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31242.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31243",
+    "summary_zh": "",
+    "summary_en": "Data mining and knowledge discovery is the kernel of contemporary computer analytics and intelligence.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31243.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31245",
+    "summary_zh": "",
+    "summary_en": "This subject introduces students to the uses of information technology (IT) as a strategic resource that enables business processes and strategies.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31245.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31247",
+    "summary_zh": "",
+    "summary_en": "This undergraduate subject allows students to explore a problem and work through an end-to-end problem-solving process.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31247.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31253",
+    "summary_zh": "",
+    "summary_en": "This subject teaches students how to design, develop and evaluate database programming and administration solutions to meet pre-defined quality characteristics of functionality (suitability, security), usability (operability), efficiency (time behaviour, resource utilisation), and maintainability (changeability, testability).",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31253.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31255",
+    "summary_zh": "",
+    "summary_en": "This mid-stage undergraduate subject provides skills in financial management that are essential to any IT professional working in business today.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31255.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31258",
+    "summary_zh": "",
+    "summary_en": "The computing industry in Australia has passed through a number of stages and is entering a phase where its pivotal role is using computers to maintain relationships, knowledge management and innovation.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31258.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31265",
+    "summary_zh": "",
+    "summary_en": "This subject develops students' professional information technology practice skills within the context of a real-life technology project, through the Engineers Without Borders (EWB) Challenge.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31265.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31266",
+    "summary_zh": "",
+    "summary_en": "This subject describes today's business environment and how technology is integrated into business, government and community systems.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31266.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31275",
+    "summary_zh": "",
+    "summary_en": "Wireless networks, such as cellular, WiFi, sensor, satellite and near field communication networks, provide ubiquitous connections to devices and end-users, and are the underlying technologies and systems for almost every industry today.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31275.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31276",
+    "summary_zh": "",
+    "summary_en": "Organisations in Australia and around the world are increasingly recognising that they do not operate in isolation and that competitive advantage depends on business networks.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31276.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31277",
+    "summary_zh": "",
+    "summary_en": "This subject extends the work done in the prerequisite subject.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31277.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31280",
+    "summary_zh": "",
+    "summary_en": "This subject deals with issues involved in strategic level analysis and design in a corporate information systems environment.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31280.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31282",
+    "summary_zh": "",
+    "summary_en": "This subject provides students with the practical knowledge and skills that are necessary to effectively measure and control the quality of software products.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31282.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31338",
+    "summary_zh": "",
+    "summary_en": "Through this subject students gain an understanding of the design principles and implementation issues for the deployment of network servers based on Windows and Linux operating systems.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31338.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31748",
+    "summary_zh": "",
+    "summary_en": "This subject introduces students to the specifics of the World Wide Web (WWW) and internet-based programming.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31748.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31777",
+    "summary_zh": "",
+    "summary_en": "This subject focuses on the concept of user experience (UX) in Interaction design.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31777.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "31927",
+    "summary_zh": "",
+    "summary_en": "This subject introduces C#, Visual Studio and the .NET development environment.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/31927.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "32009",
+    "summary_zh": "",
+    "summary_en": "This subject focuses on routing technology and provides students with a comprehensive explanation of routing.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/32009.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "32011",
+    "summary_zh": "",
+    "summary_en": "This subject complements and extends the theory and practice learned by completing the prerequisites subjects.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/32011.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "32146",
+    "summary_zh": "",
+    "summary_en": "This subject covers the core data visualisation and visual interaction (or navigation) technologies that support the visual analytics and decision-making processes.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/32146.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "33116",
+    "summary_zh": "",
+    "summary_en": "This subject focuses on data analysis.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/33116.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "33130",
+    "summary_zh": "",
+    "summary_en": "This subject develops the knowledge and skills necessary for problem-solving and mathematical modelling at an introductory level.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/33130.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41001",
+    "summary_zh": "",
+    "summary_en": "This subject introduces students to cloud computing fundamentals.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41001.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41004",
+    "summary_zh": "",
+    "summary_en": "This subject brings together the full skill set learned by students in data analytics.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41004.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41019",
+    "summary_zh": "",
+    "summary_en": "This subject focuses on the design, assessment and implementation of effective and elegant interactive physical devices.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41019.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41020",
+    "summary_zh": "",
+    "summary_en": "When designing an interactive product, the designer should know who they are designing for and their needs, wishes and abilities.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41020.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41021",
+    "summary_zh": "",
+    "summary_en": "This is a capstone project subject where students consolidate their knowledge, skills and experience acquired in their studies.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41021.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41025",
+    "summary_zh": "",
+    "summary_en": "This subject introduces students to the fundamentals of contemporary software development.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41025.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41026",
+    "summary_zh": "",
+    "summary_en": "This subject discusses the advanced software development principles, methods, tools and techniques.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41026.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41092",
+    "summary_zh": "",
+    "summary_en": "Today's internet is arguably the largest engineered system ever created by humanity, carrying petabytes of data every minute.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41092.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41113",
+    "summary_zh": "",
+    "summary_en": "This studio subject focuses on aspects of practical software development.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41113.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41889",
+    "summary_zh": "",
+    "summary_en": "This subject is an introduction to iOS application development.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41889.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41890",
+    "summary_zh": "",
+    "summary_en": "In the network security subject students learn about the theory underlying computer-security.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41890.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41891",
+    "summary_zh": "",
+    "summary_en": "Complementing the existing cloud computing subjects, this subject introduces the concepts and implementation of cloud computing infrastructure.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41891.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41900",
+    "summary_zh": "",
+    "summary_en": "Cryptographic techniques have been developed to preserve data confidentiality and ensure data integrity.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41900.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41903",
+    "summary_zh": "",
+    "summary_en": "This subject exposes students to the latest developments in networking, with a particular focus on the Internet and its measurement, using the research literature as a vehicle.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41903.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "41905",
+    "summary_zh": "",
+    "summary_en": "The rapid rise in internet traffic and services introduced a tremendous amount of pressure on telecommunication network providers.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/41905.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "42036",
+    "summary_zh": "",
+    "summary_en": "Mobile devices with their hugely increased usage of various applications and services have attracted a plethora of possible attacks.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/42036.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "42037",
+    "summary_zh": "",
+    "summary_en": "This subject provides the fundamental knowledge of Internet of Things (IoT) applications, including basic components such as IoT devices, low-powered networking and middleware solutions, and the relevant security and privacy issues regarding these components.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/42037.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "48033",
+    "summary_zh": "",
+    "summary_en": "The Internet of Things (IoT) is a distributed system, in which various autonomous devices, sometimes called motes, collect environmental data (such as location, speed, temperature, humidity and sound level) or, more recently, medical data (such as heart rate, blood oxygen level and pulse rate) and possibly execute controls via actuator devices.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48033.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "48270",
+    "summary_zh": "",
+    "summary_en": "This later stage undergraduate subject develops students' understanding of the various roles within an enterprise, using a business planning framework to present topics such as strategy, marketing, operations, personnel, and finance.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48270.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "48433",
+    "summary_zh": "",
+    "summary_en": "This subject teaches students current industry practices to design, develop and evaluate software architecture meeting predefined quality characteristics of functionality (suitability, security), usability (operability), efficiency (time behaviour, resource utilisation) and maintainability (changeability, testability).",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48433.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "48436",
+    "summary_zh": "",
+    "summary_en": "This is a practice-based subject, using material based on the textbook.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48436.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "48450",
+    "summary_zh": "",
+    "summary_en": "This subject addresses the purposes, design alternatives and uses of computer operating systems for programming in embedded systems, PC, and servers.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48450.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "48730",
+    "summary_zh": "",
+    "summary_en": "Cybersecurity is a major issue for enterprises, with breaches of security possibly being punished by legal sanctions, financial loss, or loss of customer confidence.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/48730.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21227",
+    "summary_zh": "",
+    "summary_en": "This subject provides students with an understanding of the fundamental theories and practices underpinning innovation in organisations.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21227.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21228",
+    "summary_zh": "",
+    "summary_en": "This subject introduces students to the nature and characteristics of the consulting industry, major practice areas in consulting and the value creation activities of management consultants.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21228.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21440",
+    "summary_zh": "",
+    "summary_en": "This subject aims to equip students with the theoretical underpinnings and practical tools necessary to increase proficiency in a number of areas of self-development relevant to the world of work.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21440.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21504",
+    "summary_zh": "",
+    "summary_en": "This subject consolidates the knowledge learned in the management major by critically and creatively applying theoretical approaches to real-life management problems.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21504.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21510",
+    "summary_zh": "",
+    "summary_en": "This subject is designed to give students a broad overview of the complexity of developing and implementing strategy in a local, national and international business environment.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21510.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21511",
+    "summary_zh": "",
+    "summary_en": "This subject builds on the business knowledge taught in the core subject Integrating Business Perspectives and provides students studying in the Management, Human Resource Management and International Business majors with an opportunity to develop their understanding of sustainable business operations and global supply chain management from a systems perspective.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21511.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21512",
+    "summary_zh": "",
+    "summary_en": "This subject considers what is theory and what is theorising in the specific context of organisations and organisation theory.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21512.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21513",
+    "summary_zh": "",
+    "summary_en": "This subject explores the breadth and depth of ethical issues confronting contemporary organisations as they relate to general business practice and sustainability.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21513.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21555",
+    "summary_zh": "",
+    "summary_en": "Human resource management (HRM) is a core consideration for running successful organisations.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21555.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21591",
+    "summary_zh": "",
+    "summary_en": "This subject introduces concepts and capabilities that are critical to navigating the complexities of managing in transnational contexts.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21591.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21595",
+    "summary_zh": "",
+    "summary_en": "This subject enables students to undertake a focused overseas study tour, during which the business, management and cultural practices of a selected country are researched and experienced.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21595.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "21644",
+    "summary_zh": "",
+    "summary_en": "This subject introduces students to a range of legal and regulatory topics relevant to management.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21644.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "23507",
+    "summary_zh": "",
+    "summary_en": "This subject equips students with a general knowledge of building models using empirical time series data.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/23507.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24100",
+    "summary_zh": "",
+    "summary_en": "This subject covers the integration of marketing principles and applies them to the development of a project for a real client's marketing problem.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24100.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24104",
+    "summary_zh": "",
+    "summary_en": "Marketing is a dynamic area of business that continues to evolve as a result of changes in technology, competitive landscape and consumer behaviour.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24104.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24202",
+    "summary_zh": "",
+    "summary_en": "This subject covers the basics of consumer behaviour concepts.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24202.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24205",
+    "summary_zh": "",
+    "summary_en": "The marketing of industrial goods and services poses some unique challenges.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24205.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24210",
+    "summary_zh": "",
+    "summary_en": "This subject examines all aspects of integrated marketing communications from an advanced viewpoint based on theory, practice, and research findings.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24210.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24211",
+    "summary_zh": "",
+    "summary_en": "This subject focuses on the important role brands play in the marketing process.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24211.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24212",
+    "summary_zh": "",
+    "summary_en": "This subject provides a framework and a roadmap for successfully addressing the real-world marketing challenges involved in launching entrepreneurial ventures and supporting growth and innovation in established companies.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24212.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24220",
+    "summary_zh": "",
+    "summary_en": "This subject focuses in the first instance on the issues relating to the ways in which firms consider the business opportunities for developing international marketing operations and then secondly, how those plans need to be evaluated, researched, developed and then implemented and managed.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24220.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24222",
+    "summary_zh": "",
+    "summary_en": "This subject develops the knowledge and skills to design, develop, maintain and manage effective relationships among worldwide marketing channels to achieve sustainable competitive advantage by using strategic and managerial frames of reference.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24222.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24223",
+    "summary_zh": "",
+    "summary_en": "This subject provides future new product managers, project managers and team leaders with a comprehensive set of knowledge and skills to manage new product development processes including how to develop an effective development strategy, and generate and evaluate concepts.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24223.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24224",
+    "summary_zh": "",
+    "summary_en": "Pricing directly affects a firm's bottom line.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24224.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24306",
+    "summary_zh": "",
+    "summary_en": "This subject enables students to broaden their understanding of marketing by focusing on the marketing of services.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24306.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24309",
+    "summary_zh": "",
+    "summary_en": "This subject covers the basic marketing research procedures including analytical and interpretive skills that allow marketing analysts and managers to carry out and evaluate practical and useful marketing research.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24309.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24331",
+    "summary_zh": "",
+    "summary_en": "This subject introduces the theories and techniques of marketing analytics in the context of various marketing decision-making environments.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24331.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "24415",
+    "summary_zh": "",
+    "summary_en": "Why do some organisations deliver better performance than others?",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24415.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25410",
+    "summary_zh": "",
+    "summary_en": "This subject exposes students to the practical aspects of financial decision-making in a wide range of contexts.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25410.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25500",
+    "summary_zh": "",
+    "summary_en": "This subject focuses on developing students’ applied knowledge and practical skills required to work in the financial and investment markets.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25500.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25503",
+    "summary_zh": "",
+    "summary_en": "This subject exposes students to the applied aspects of investment and portfolio management.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25503.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25556",
+    "summary_zh": "",
+    "summary_en": "The aim of this subject is to develop an understanding of the operations of a modern financial system, covering its payment, financing and market-risk management activities.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25556.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25557",
+    "summary_zh": "",
+    "summary_en": "This subject develops the concepts of corporate finance introduced in 25300 Fundamentals of Business Finance.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25557.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25574",
+    "summary_zh": "",
+    "summary_en": "This subject provides a detailed examination of the fundamentals of the management, risk, regulation and operation and performance of a commercial bank.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25574.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25575",
+    "summary_zh": "",
+    "summary_en": "This subject provides an accessible introduction to the literature on recent developments in the services and transactions provided by investment banks.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25575.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25579",
+    "summary_zh": "",
+    "summary_en": "This subject provides a hands-on experience of the practice of modern portfolio management.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25579.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25602",
+    "summary_zh": "",
+    "summary_en": "Ethical practices instil a public trust in the fairness of markets, allowing them to function efficiently.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25602.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25620",
+    "summary_zh": "",
+    "summary_en": "Derivative securities play an important role in current financial markets.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25620.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25624",
+    "summary_zh": "",
+    "summary_en": "This subject serves as an introduction to financial decision-making and the role of (big) data in financial decisions.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25624.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25625",
+    "summary_zh": "",
+    "summary_en": "This subject provides high-achieving students with advanced training in equity research and portfolio management in the context of a real investment fund.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25625.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25626",
+    "summary_zh": "",
+    "summary_en": "This subject guides students through all the financial aspects of startups – i.e.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25626.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "25627",
+    "summary_zh": "",
+    "summary_en": "Investors, financial institutions, and the broader financial system face increasing challenges from issues such as climate change, biodiversity loss, and the transition to a low-carbon economy.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25627.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "26600",
+    "summary_zh": "",
+    "summary_en": "This subject builds students’ professional, business, technical and ethical decision-making skills as part of the internship experience to foster their career development.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/26600.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  },
+  {
+    "code": "79014",
+    "summary_zh": "",
+    "summary_en": "This subject is designed to provide business students with a sound understanding of fundamental aspects of company law and regulations as they apply to the modern companies.",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/79014.html",
+    "source_year": 2024,
+    "summary_kind": "official_description_excerpt",
+    "verified_on": "2026-11-03"
+  }
+]

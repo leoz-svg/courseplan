@@ -1,0 +1,12 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {PROGRAMS} from '../lib/programs.ts';
+import {validateProfile,validateProfileState,creditProgress} from '../lib/profile.ts';
+import {restorePlan,emptyPlan,evaluateRule} from '../lib/planning.ts';
+const rows=JSON.parse(await readFile(new URL('../app/data/catalog/program-subjects.json',import.meta.url),'utf8'));
+const profile={programId:'design',displayName:'Guest',studentId:'',entryYear:2026,targetCredits:144,priorCredits:12};
+test('each program has its own dataset, catalog and matching plans',()=>{assert.equal(new Set(PROGRAMS.map(p=>p.datasetId)).size,3);const catalog=rows.filter(c=>c.dataset_id===PROGRAMS[1].datasetId);assert.equal(catalog.length,61);const plan=emptyPlan(PROGRAMS[1].datasetId,2026);assert.equal(plan.terms[0].year,2026);assert.equal(restorePlan(plan,catalog).datasetId,PROGRAMS[1].datasetId);assert.throws(()=>restorePlan(emptyPlan(),catalog));const foreign={...plan,terms:[{id:'a',year:2026,season:'Autumn',courseCodes:['41039']}]};assert.throws(()=>restorePlan(foreign,catalog));});
+test('profile permits guest without student ID and rejects invalid credit/year/program values',()=>{assert.equal(validateProfile(profile).studentId,'');for(const patch of [{targetCredits:0},{priorCredits:145},{entryYear:1800},{programId:'unknown'}])assert.throws(()=>validateProfile({...profile,...patch}));assert.throws(()=>validateProfileState({activeProgramId:'computing',profiles:{design:profile}}));});
+test('completed, transferred, planned and remaining credits stay distinct',()=>{assert.deepEqual(creditProgress(144,12,24,36),{achieved:36,planned:36,remaining:108,unallocated:72,completedPercent:25,plannedPercent:25,overTarget:0});const over=creditProgress(48,0,36,24);assert.equal(over.remaining,12);assert.equal(over.unallocated,0);assert.equal(over.plannedPercent,25);assert.equal(over.overTarget,12);});
+test('design AND/OR requirements and business corequisite option follow reviewed source',()=>{const studio=rows.find(c=>c.code==='87832').rules[0].expression;assert.equal(evaluateRule(studio,new Set(['87443','87731']),new Set(),0),'met');assert.equal(evaluateRule(studio,new Set(['87009']),new Set(),0),'unmet');const theory=rows.find(c=>c.code==='87100').rules[0].expression;assert.equal(evaluateRule(theory,new Set(),new Set(['87631']),0),'met');const accounting=rows.find(c=>c.code==='22208').rules[0].expression;assert.equal(evaluateRule(accounting,new Set(),new Set(['22108']),0),'met');});

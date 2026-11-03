@@ -1,0 +1,227 @@
+{
+  "programs": {
+    "computing": [
+      "stm90651",
+      "maj02081",
+      "maj03444",
+      "maj02080",
+      "maj02092",
+      "maj03445"
+    ],
+    "business": [
+      "stm90273",
+      "maj08440",
+      "maj08438",
+      "maj08441"
+    ]
+  },
+  "packages": [
+    {
+      "id": "stm90651",
+      "title": "STM90651 Core subjects (Information Technology)",
+      "codes": [
+        "31265",
+        "31266",
+        "31268",
+        "31269",
+        "41092",
+        "31271",
+        "31272",
+        "41039",
+        "48023"
+      ],
+      "source_url": "https://handbookpre2025.uts.edu.au/2024/directory/stm90651.html",
+      "requirements_text": "Completion requirements 31265 Communication for IT Professionals 6cp 31266 Introduction to Information Systems 6cp 31268 Web Systems 6cp 31269 Business Requirements Modelling 6cp 41092 Network Fundamentals 6cp 31271 Database Fundamentals 6cp 31272 Project Management and the Professional 6cp Select 6 credit points of options: 6cp 41039 Programming 1 6cp 48023 Programming Fundamentals 6cp Total 48cp"
+    },
+    {
+      "id": "maj02081",
+      "title": "MAJ02081 Data Analytics",
+      "codes": [
+        "33116",
+        "31250",
+        "31005",
+        "32146",
+        "41004",
+        "48024",
+        "31243",
+        "31253",
+        "31256",
+        "33130"
+      ],
+      "source_url": "https://handbookpre2025.uts.edu.au/2024/directory/maj02081.html",
+      "requirements_text": "Completion requirements 33116 Design, Data, and Decisions 6cp 31250 Introduction to Data Analytics 6cp 31005 Machine Learning 6cp 32146 Data Visualisation and Visual Analytics 6cp 41004 AI/Analytics Capstone Project 6cp 48024 Programming 2 6cp Select 6 credit points of options: 6cp 31243 AI/Analytics Capstone Project B 6cp 31253 Database Programming 6cp 31256 Image Processing and Pattern Recognition 6cp 33130 Mathematics 1 6cp Select 6 credit points of options: 6cp 31243 AI/Analytics Capstone Project B 6cp 31256 Image Processing and Pattern Recognition 6cp Total 48cp"
+    },
+    {
+      "id": "maj03444",
+      "title": "MAJ03444 Enterprise Software Development",
+      "codes": [
+        "48024",
+        "31251",
+        "41025",
+        "31260",
+        "41026",
+        "48433",
+        "31777",
+        "31242",
+        "41889",
+        "31927",
+        "41001",
+        "31253",
+        "41113"
+      ],
+      "source_url": "https://handbookpre2025.uts.edu.au/2024/directory/maj03444.html",
+      "requirements_text": "Completion requirements 48024 Programming 2 6cp 31251 Data Structures and Algorithms 6cp 41025 Introduction to Software Development 6cp 31260 Fundamentals of Interaction Design 6cp 41026 Advanced Software Development 6cp 48433 Software Architecture 6cp Select 12 credit points of options: 12cp 31777 Advanced Interaction Design 6cp 31242 Advanced Internet Programming 6cp 41889 Application Development in the iOS Environment 6cp 31927 Application Development with .NET 6cp 41001 Cloud Computing and Software as a Service 6cp 31253 Database Programming 6cp 41113 Software Development Studio 6cp Total 48cp"
+    },
+    {
+      "id": "maj02080",
+      "title": "MAJ02080 Business Information Systems Management",
+      "codes": [
+        "31257",
+        "31247",
+        "31245",
+        "31258",
+        "31276",
+        "31280",
+        "31255",
+        "48270",
+        "31097",
+        "31282"
+      ],
+      "source_url": "https://handbookpre2025.uts.edu.au/2024/directory/maj02080.html",
+      "requirements_text": "Completion requirements 31257 Information System Development Methodologies 6cp 31247 Collaborative Business Processes 6cp 31245 Business Process and IT Strategy 6cp 31258 Innovations for Global Relationship Management 6cp 31276 Networked Enterprise Architecture 6cp 31280 Strategic IT Project 6cp 31255 Finance and IT Professionals 6cp Select 6 credit points of options: 6cp 48270 Entrepreneurship and Commercialisation 6cp 31097 IT Operations Management 6cp 31282 Systems Testing and Quality Management 6cp Total 48cp"
+    },
+    {
+      "id": "maj02092",
+      "title": "MAJ02092 Interaction Design",
+      "codes": [
+        "31260",
+        "31777",
+        "31080",
+        "41019",
+        "41021",
+        "41889",
+        "31927",
+        "31262",
+        "41020",
+        "31263",
+        "31250",
+        "31748"
+      ],
+      "source_url": "https://handbookpre2025.uts.edu.au/2024/directory/maj02092.html",
+      "requirements_text": "Completion requirements 31260 Fundamentals of Interaction Design 6cp 31777 Advanced Interaction Design 6cp 31080 Interactive Media 6cp 41019 Prototyping Physical Interaction 6cp 41021 Interaction Design Studio 12cp Select 12 credit points of options: 12cp 41889 Application Development in the iOS Environment 6cp 31927 Application Development with .NET 6cp 31262 Game Design Methodologies 6cp 41020 Human-centred Design Methods 6cp 31263 Introduction to Computer Game Development 6cp 31250 Introduction to Data Analytics 6cp 31748 Programming on the Internet 6cp Total 48cp"
+    },
+    {
+      "id": "maj03445",
+      "title": "MAJ03445 Networking and Cybersecurity",
+      "codes": [
+        "31277",
+        "31275",
+        "41900",
+        "48730",
+        "31261",
+        "31338",
+        "48450",
+        "32009",
+        "41890",
+        "41891",
+        "42036",
+        "48436",
+        "41903",
+        "48033",
+        "42037",
+        "32011",
+        "41905"
+      ],
+      "source_url": "https://handbookpre2025.uts.edu.au/2024/directory/maj03445.html",
+      "requirements_text": "Completion requirements 31277 Routing and Switching Essentials 6cp 31275 Mobile Networking 6cp 41900 Cryptography 6cp 48730 Cybersecurity 6cp 31261 Internetworking Project 6cp Select 6 credit points of options: 6cp 31338 Network Servers 6cp 48450 Real-time Operating Systems 6cp Select 12 credit points of options: 12cp 32009 Advanced Routing Principles 6cp 41890 Applying Network Security 6cp 41891 Cloud Computing Infrastructure 6cp 42036 Cyber Security for Mobile Platforms 6cp 48436 Digital Forensics 6cp 41903 Internet Science 6cp 48033 Internet of Things 6cp 42037 IoT Security 6cp 32011 Multilayer Switched Networks 6cp 41905 Software Defined Networks 6cp Total 48cp"
+    },
+    {
+      "id": "stm90273",
+      "title": "STM90273 Core subjects (Business)",
+      "codes": [
+        "22108",
+        "23115",
+        "21212",
+        "26134",
+        "24109",
+        "25300",
+        "21214",
+        "22208"
+      ],
+      "source_url": "https://handbookpre2025.uts.edu.au/2024/directory/stm90273.html",
+      "requirements_text": "22108 Accounting and Accountability 6cp 23115 Economics for Business 6cp 21212 People and Organisations 6cp 26134 Business Statistics 6cp 24109 Marketing and Customer Value 6cp 25300 Fundamentals of Business Finance 6cp 21214 Business and Social Impact 6cp 22208 Accounting, Business and Society 6cp Total 48cp"
+    },
+    {
+      "id": "maj08440",
+      "title": "MAJ08440 Finance",
+      "codes": [
+        "25556",
+        "25624",
+        "25503",
+        "25410",
+        "25557",
+        "79014",
+        "25579",
+        "26600",
+        "25574",
+        "25620",
+        "25602",
+        "25575",
+        "21644",
+        "25627",
+        "25626",
+        "25500",
+        "23507",
+        "25625"
+      ],
+      "source_url": "https://handbookpre2025.uts.edu.au/2024/directory/maj08440.html",
+      "requirements_text": "Completion requirements 25556 The Financial System 6cp 25624 Financial Metrics for Decision Making 6cp 25503 Investment Analysis 6cp 25410 Applied Financial Decision Making (Capstone) 6cp 25557 Corporate Finance: Theory and Practice 6cp Select 18 credit points of options: 18cp 79014 Applied Company Law 6cp 25579 Applied Portfolio Management 6cp 26600 Business Internship 6cp 25574 Commercial Bank Management 6cp 25620 Derivative Securities 6cp 25602 Ethics in Finance 6cp 25575 Investment Banking 6cp 21644 Law and Ethics for Managers 6cp 25627 Responsible Finance 6cp 25626 Startup Finance 6cp 25500 Strategic Investment Management 6cp 23507 Time Series Econometrics 6cp 25625 UTS Student Managed Fund 6cp Total 48cp"
+    },
+    {
+      "id": "maj08438",
+      "title": "MAJ08438 Management",
+      "codes": [
+        "21510",
+        "21512",
+        "21511",
+        "21440",
+        "21513",
+        "21504",
+        "26600",
+        "21227",
+        "21595",
+        "21555",
+        "21644",
+        "21228",
+        "21591"
+      ],
+      "source_url": "https://handbookpre2025.uts.edu.au/2024/directory/maj08438.html",
+      "requirements_text": "Completion requirements 21510 Introduction to Strategy 6cp 21512 Understanding Organisations: Theory and Practice 6cp 21511 Global Operations and Supply Chain Management 6cp 21440 Management Skills 6cp 21513 Business Ethics and Sustainability 6cp 21504 Management Capstone 6cp Select 12 credit points of options: 12cp 26600 Business Internship 6cp 21227 Innovation and Entrepreneurship 6cp 21595 International Management Field Study 6cp 21555 Introduction to Human Resource Management 6cp 21644 Law and Ethics for Managers 6cp 21228 Management Consulting 6cp 21591 Transnational Management 6cp Total 48cp"
+    },
+    {
+      "id": "maj08441",
+      "title": "MAJ08441 Marketing",
+      "codes": [
+        "24202",
+        "24309",
+        "24210",
+        "24415",
+        "24100",
+        "24211",
+        "26600",
+        "24205",
+        "24104",
+        "24212",
+        "24220",
+        "21644",
+        "24331",
+        "24222",
+        "24224",
+        "24223",
+        "24306"
+      ],
+      "source_url": "https://handbookpre2025.uts.edu.au/2024/directory/maj08441.html",
+      "requirements_text": "Completion requirements 24202 Consumer Behaviour 6cp 24309 Marketing Research 6cp 24210 Integrated Marketing Communications 6cp 24415 Marketing Planning and Strategy 6cp 24100 Applied Project in Marketing (Capstone) 6cp Select 18 credit points of options: 18cp 24211 Branding 6cp 26600 Business Internship 6cp 24205 Business-to-Business Marketing 6cp 24104 Digital Marketing and Social Media 6cp 24212 Entrepreneurial Marketing 6cp 24220 International Marketing 6cp 21644 Law and Ethics for Managers 6cp 24331 Marketing Analytics and Decisions 6cp 24222 Marketing Channels 6cp 24224 Pricing Strategies and Tactics 6cp 24223 Product Innovation Marketing 6cp 24306 Services Marketing 6cp Total 48cp"
+    }
+  ]
+}

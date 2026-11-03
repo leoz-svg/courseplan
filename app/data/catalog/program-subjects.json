@@ -1,0 +1,4382 @@
+[
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87631",
+    "title": "VC Design Studio: The Politics of Image and Text",
+    "credit_points": 12,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87631.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87631",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission requirements still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87631.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87100",
+    "title": "VC Design Theory: Critical Approaches to Visual Culture",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87100.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87100",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "87631",
+          "timing": "concurrent"
+        },
+        "raw_text": "87631c VC Design Studio: The Politics of Image and Text The lower case 'c' after the subject code indicates that the subject is a corequisite. See definitions for details. These requisites may not apply to students in certain courses. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87100.html",
+        "review_status": "source_verified"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学和豁免条件需核对官方 Access conditions。"
+        },
+        "raw_text": "Course-specific admission conditions or exemptions may apply; see Access conditions.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87100.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "City",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "85503",
+    "title": "Thinking Through Design",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85503.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=85503",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission requirements still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85503.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "City",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "City",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87632",
+    "title": "VC Design Studio: The Ethics of Image and Text",
+    "credit_points": 12,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87632.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87632",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "87631",
+          "timing": "prior"
+        },
+        "raw_text": "87631 VC Design Studio: The Politics of Image and Text These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87632.html",
+        "review_status": "source_verified"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学和豁免条件需核对官方 Access conditions。"
+        },
+        "raw_text": "Course-specific admission conditions or exemptions may apply; see Access conditions.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87632.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87222",
+    "title": "VC Design Project: Symbols, Systems and Visual Play",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87222.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87222",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission requirements still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87222.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "City",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "85502",
+    "title": "Researching Design Histories",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85502.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=85502",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission requirements still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85502.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "City",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "City",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87731",
+    "title": "VC Design Studio: Narrative, Form and Time",
+    "credit_points": 12,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87731.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87731",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "87632",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "87222",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "87632 VC Design Studio: The Ethics of Image and Text AND 87222 VC Design Project: Symbols, Systems and Visual Play",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87731.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87441",
+    "title": "VC Project: Contexts of Visual Communication",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87441.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87441",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "87632",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "87222",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "87632 VC Design Studio: The Ethics of Image and Text AND 87222 VC Design Project: Symbols, Systems and Visual Play",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87441.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "City",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87443",
+    "title": "VC Project: Typography in Context",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87443.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87443",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "87632",
+          "timing": "prior"
+        },
+        "raw_text": "87632 VC Design Studio: The Ethics of Image and Text",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87443.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "City",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87009",
+    "title": "VC Design Studio: Visualising Experience",
+    "credit_points": 12,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87009.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87009",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "87632",
+          "timing": "prior"
+        },
+        "raw_text": "87632 VC Design Studio: The Ethics of Image and Text",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87009.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "City",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87832",
+    "title": "VC Design Studio: Design Practice",
+    "credit_points": 12,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87832.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87832",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "87443",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "87009",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "subject",
+              "code": "87731",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "(( 87443 VC Project: Typography in Context OR 87009 VC Design Studio: Visualising Experience) AND 87731 VC Design Studio: Narrative, Form and Time)",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87832.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87011",
+    "title": "VC Project: Visual Communication and Emergent Practices",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87011.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87011",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "87443",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "87009",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "87731",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "87443 VC Project: Typography in Context AND 87009 VC Design Studio: Visualising Experience AND 87731 VC Design Studio: Narrative, Form and Time",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87011.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87012",
+    "title": "VC Project: Research Through Design",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87012.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87012",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "87731",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "87443",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "87009",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "87731 VC Design Studio: Narrative, Form and Time AND 87443 VC Project: Typography in Context AND 87009 VC Design Studio: Visualising Experience",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87012.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "City",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87010",
+    "title": "VC Design Studio: Socially Responsive Design",
+    "credit_points": 12,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87010.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87010",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "87731",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "87443",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "87731 VC Design Studio: Narrative, Form and Time AND 87443 VC Project: Typography in Context",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87010.html",
+        "review_status": "source_verified"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "City",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "80035",
+    "title": "Photography and the Body",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80035.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=80035",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80035.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "80082",
+    "title": "Photography and the Object",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80082.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=80082",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80082.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "80083",
+    "title": "Memory and the Image",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80083.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=80083",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80083.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "80084",
+    "title": "Photography and Fashion",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80084.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=80084",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/80084.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "83122",
+    "title": "Machine-knitted Textiles",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/83122.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=83122",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/83122.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "84000",
+    "title": "Product Design Special Project",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/84000.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=84000",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "manual",
+          "text": "( 84117 Product Design Communication B AND (48 credit points of completed study in spk(s): C10304 Bachelor of Design Product Design OR 48 credit points of completed study in spk(s): C10305 Bachelor of Design Product Design Bachelor of International Studies OR 48 credit points of completed study in spk(s): C10323 Bachelor of Design Product Design Bachelor of Creative Intelligence and Innovation OR 48 credit points of completed study in spk(s): C10428 Bachelor of Design Product Design Bachelor of Languages and Cultures OR 48 credit points of completed study in spk(s): C09145 Bachelor of Design Product Design Bachelor of International Studies (Honours)))"
+        },
+        "raw_text": "( 84117 Product Design Communication B AND (48 credit points of completed study in spk(s): C10304 Bachelor of Design Product Design OR 48 credit points of completed study in spk(s): C10305 Bachelor of Design Product Design Bachelor of International Studies OR 48 credit points of completed study in spk(s): C10323 Bachelor of Design Product Design Bachelor of Creative Intelligence and Innovation OR 48 credit points of completed study in spk(s): C10428 Bachelor of Design Product Design Bachelor of Languages and Cultures OR 48 credit points of completed study in spk(s): C09145 Bachelor of Design Product Design Bachelor of International Studies (Honours)))",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/84000.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "84124",
+    "title": "Digital Systems for Sustainable Production",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/84124.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=84124",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/84124.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "85001",
+    "title": "The Bio Kitchen",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85001.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=85001",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85001.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "85202",
+    "title": "Design Futuring",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85202.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=85202",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "85502",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "85503",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "85502 Researching Design Histories AND 85503 Thinking Through Design These requisites may not apply to students in certain courses. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85202.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85202.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "85302",
+    "title": "Social Media Cultures",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85302.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=85302",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85302.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "85840",
+    "title": "Biodesign",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85840.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=85840",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "85502",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "85503",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "85502 Researching Design Histories AND 85503 Thinking Through Design These requisites may not apply to students in certain courses. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85840.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/85840.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87007",
+    "title": "Pre-press and Print Production",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87007.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87007",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "87632",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "87222",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "87631",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "87632 VC Design Studio: The Ethics of Image and Text AND 87222 VC Design Project: Symbols, Systems and Visual Play AND 87631 VC Design Studio: The Politics of Image and Text",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87007.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87539",
+    "title": "Webmedia",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87539.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87539",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87539.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Summer",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87549",
+    "title": "Creative Code",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87549.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87549",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87549.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87559",
+    "title": "Motion Graphics",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87559.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87559",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87559.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87659",
+    "title": "VC Moving Image Design: Video",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87659.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87659",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87659.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87749",
+    "title": "User Experience Design",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87749.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87749",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87749.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "87849",
+    "title": "Creative Technologies",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87849.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=87849",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/87849.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88000",
+    "title": "Object and Accessory Design 1: Foundations",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88000.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88000",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88000.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88002",
+    "title": "Object and Accessory Design 2: The Cast Object",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88002.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88002",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "88100",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "88000",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "88100 Object and Accessory Design 1: Foundations OR 88000 Object and Accessory Design 1: Foundations",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88002.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88004",
+    "title": "Textiles: Print",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88004.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88004",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88004.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88006",
+    "title": "Textiles: Dye Methods",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88006.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88006",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88006.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88007",
+    "title": "Textiles: Surface Form",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88007.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88007",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88007.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88011",
+    "title": "Darkroom Photography",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88011.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88011",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88011.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88014",
+    "title": "The Photo Book",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88014.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88014",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88014.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88015",
+    "title": "Global Studio A",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88015.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88015",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88015.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88016",
+    "title": "Global Studio B",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88016.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88016",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88016.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88304",
+    "title": "Illustration: Media and Techniques",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88304.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88304",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88304.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Summer",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88308",
+    "title": "VC Moving Image Design: Animation",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88308.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88308",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88308.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Summer",
+        "location": "See source",
+        "indicative": true
+      },
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88316",
+    "title": "Furniture Context and Language",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88316.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88316",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88316.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88404",
+    "title": "Illustration for Product and Branding",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88404.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88404",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "88304",
+          "timing": "prior"
+        },
+        "raw_text": "88304 Illustration: Media and Techniques These requisites may not apply to students in certain courses. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88404.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88404.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88416",
+    "title": "Furniture Production and Materials",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88416.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88416",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88416.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88504",
+    "title": "Illustration for Publication",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88504.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88504",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "88304",
+          "timing": "prior"
+        },
+        "raw_text": "88304 Illustration: Media and Techniques These requisites may not apply to students in certain courses. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88504.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88504.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88604",
+    "title": "Visual Narrative",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88604.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88604",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88604.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88801",
+    "title": "Introduction to Photography for Design and Architecture",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88801.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88801",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88801.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "80027 Photographic History and Theory AND 80037 Critical Approaches to Photography AND 80047 Critical Image Studio: Image Ethics and Portraiture AND 80065 Critical Image Studio: Image Activism and Documentary Practice AND 88805 Introduction to Photography Elective"
+        },
+        "raw_text": "80027 Photographic History and Theory AND 80037 Critical Approaches to Photography AND 80047 Critical Image Studio: Image Ethics and Portraiture AND 80065 Critical Image Studio: Image Activism and Documentary Practice AND 88805 Introduction to Photography Elective",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88801.html",
+        "review_status": "conservative_pairwise"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88805",
+    "title": "Introduction to Photography",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88805.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88805",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88805.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "See source",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88831",
+    "title": "Global Studio: Fashion and Textiles A",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88831.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88831",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88831.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88832",
+    "title": "Global Studio: Fashion and Textiles B",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88832.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88832",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites listed on the historical page; admission conditions still need verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88832.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "88990",
+    "title": "Generative Design Principles",
+    "credit_points": 6,
+    "faculty": "Design, Architecture and Building",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88990.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=88990",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "manual",
+          "text": "48 credit points of completed study in spk(s): STM90788 120cp Core Subjects (Product Design) BDesign OR 36 credit points of completed study in spk(s): STM91425 108cp Core Subjects (Product Design)"
+        },
+        "raw_text": "48 credit points of completed study in spk(s): STM90788 120cp Core Subjects (Product Design) BDesign OR 36 credit points of completed study in spk(s): STM91425 108cp Core Subjects (Product Design)",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/88990.html",
+        "review_status": "source_reviewed"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "95002",
+    "title": "TD: Reframing, remixing, reimagining society",
+    "credit_points": 6,
+    "faculty": "Transdisciplinary Innovation",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95002.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=95002",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "credits",
+          "minimum": 36
+        },
+        "raw_text": "36 credit points of completed study in any Bachelor's Degree OR 36 credit points of completed study in any Bachelor's Combined Degree OR 36 credit points of completed study in any Bachelor's Honours Embedded OR 36 credit points of completed study in any Bachelor's Combined Honours These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95002.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "95010 TD: Reframing, remixing, reimagining society + Notes Not suitable for students who are admitted in C20060 Diploma in Innovation."
+        },
+        "raw_text": "95010 TD: Reframing, remixing, reimagining society + Notes Not suitable for students who are admitted in C20060 Diploma in Innovation.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95002.html",
+        "review_status": "conservative_pairwise"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95002.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "95003",
+    "title": "TD: Sustainability in an interconnected world",
+    "credit_points": 6,
+    "faculty": "Transdisciplinary Innovation",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95003.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=95003",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "credits",
+          "minimum": 36
+        },
+        "raw_text": "36 credit points of completed study in any Bachelor's Degree OR 36 credit points of completed study in any Bachelor's Combined Degree OR 36 credit points of completed study in any Bachelor's Honours Embedded OR 36 credit points of completed study in any Bachelor's Combined Honours These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95003.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "95011 TD: Sustainability in an interconnected world + Notes Not suitable for students who are admitted in C20060 Diploma in Innovation."
+        },
+        "raw_text": "95011 TD: Sustainability in an interconnected world + Notes Not suitable for students who are admitted in C20060 Diploma in Innovation.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95003.html",
+        "review_status": "conservative_pairwise"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95003.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Spring",
+        "location": "See source",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "95004",
+    "title": "TD: Technologies reimagined in a complex world",
+    "credit_points": 6,
+    "faculty": "Transdisciplinary Innovation",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95004.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=95004",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "credits",
+          "minimum": 36
+        },
+        "raw_text": "36 credit points of completed study in any Bachelor's Degree OR 36 credit points of completed study in any Bachelor's Combined Degree OR 36 credit points of completed study in any Bachelor's Honours Embedded OR 36 credit points of completed study in any Bachelor's Combined Honours These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95004.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "95012 TD: Technologies reimagined in a complex world +"
+        },
+        "raw_text": "95012 TD: Technologies reimagined in a complex world +",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95004.html",
+        "review_status": "conservative_pairwise"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95004.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "95005",
+    "title": "TD: Shaping technologies that shape us",
+    "credit_points": 6,
+    "faculty": "Transdisciplinary Innovation",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95005.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=95005",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "credits",
+          "minimum": 36
+        },
+        "raw_text": "36 credit points of completed study in any Bachelor's Degree OR 36 credit points of completed study in any Bachelor's Combined Degree OR 36 credit points of completed study in any Bachelor's Honours Embedded OR 36 credit points of completed study in any Bachelor's Combined Honours These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95005.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "95013 TD: Shaping technologies that shape us +"
+        },
+        "raw_text": "95013 TD: Shaping technologies that shape us +",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95005.html",
+        "review_status": "conservative_pairwise"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95005.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "95006",
+    "title": "TD: Envisioning futures worth wanting",
+    "credit_points": 6,
+    "faculty": "Transdisciplinary Innovation",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95006.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=95006",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "credits",
+          "minimum": 36
+        },
+        "raw_text": "36 credit points of completed study in any Bachelor's Degree OR 36 credit points of completed study in any Bachelor's Combined Degree OR 36 credit points of completed study in any Bachelor's Honours Embedded OR 36 credit points of completed study in any Bachelor's Combined Honours These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95006.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "95014 TD: Envisioning futures worth wanting +"
+        },
+        "raw_text": "95014 TD: Envisioning futures worth wanting +",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95006.html",
+        "review_status": "conservative_pairwise"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95006.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "95007",
+    "title": "TD: Pathways to societal transitions",
+    "credit_points": 6,
+    "faculty": "Transdisciplinary Innovation",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95007.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=95007",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "credits",
+          "minimum": 36
+        },
+        "raw_text": "36 credit points of completed study in any Bachelor's Degree OR 36 credit points of completed study in any Bachelor's Combined Degree OR 36 credit points of completed study in any Bachelor's Honours Embedded OR 36 credit points of completed study in any Bachelor's Combined Honours These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95007.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "95015 TD: Pathways to societal transitions +"
+        },
+        "raw_text": "95015 TD: Pathways to societal transitions +",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95007.html",
+        "review_status": "conservative_pairwise"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95007.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "95008",
+    "title": "TD: Shaping better futures",
+    "credit_points": 6,
+    "faculty": "Transdisciplinary Innovation",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95008.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=95008",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "credits",
+          "minimum": 36
+        },
+        "raw_text": "36 credit points of completed study in any Bachelor's Degree OR 36 credit points of completed study in any Bachelor's Combined Degree OR 36 credit points of completed study in any Bachelor's Honours Embedded OR 36 credit points of completed study in any Bachelor's Combined Honours These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95008.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "95016 TD: Shaping better futures +"
+        },
+        "raw_text": "95016 TD: Shaping better futures +",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95008.html",
+        "review_status": "conservative_pairwise"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95008.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-design-snapshot",
+    "code": "95009",
+    "title": "TD: Change-making for social impact",
+    "credit_points": 6,
+    "faculty": "Transdisciplinary Innovation",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95009.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=95009",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "credits",
+          "minimum": 36
+        },
+        "raw_text": "36 credit points of completed study in any Bachelor's Degree OR 36 credit points of completed study in any Bachelor's Combined Degree OR 36 credit points of completed study in any Bachelor's Honours Embedded OR 36 credit points of completed study in any Bachelor's Combined Honours These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95009.html",
+        "review_status": "source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "95017 TD: Change-making for social impact +"
+        },
+        "raw_text": "95017 TD: Change-making for social impact +",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95009.html",
+        "review_status": "conservative_pairwise"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "专业、入学或豁免条件需核对。"
+        },
+        "raw_text": "Course-specific conditions or exemptions may apply.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/95009.html",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "22108",
+    "title": "Accounting and Accountability",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/22108.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=22108",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/22108.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "22105 Accounting A AND 22107 Accounting for Business Decisions A AND 22600 Accounting Skills for Managers"
+        },
+        "raw_text": "22105 Accounting A AND 22107 Accounting for Business Decisions A AND 22600 Accounting Skills for Managers",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/22108.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=22108",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "23115",
+    "title": "Economics for Business",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/23115.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=23115",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/23115.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "23000 Principles of Microeconomics AND 23001 Principles of Macroeconomics AND 25115 Economics for Business"
+        },
+        "raw_text": "23000 Principles of Microeconomics AND 23001 Principles of Macroeconomics AND 25115 Economics for Business",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/23115.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=23115",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21212",
+    "title": "People and Organisations",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21212.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21212",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21212.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "21129 Managing People and Organisations AND 21130 Management and Organisations"
+        },
+        "raw_text": "21129 Managing People and Organisations AND 21130 Management and Organisations",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21212.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21212",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "26134",
+    "title": "Business Statistics",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/26134.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=26134",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/26134.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "26133 Business Information Analysis"
+        },
+        "raw_text": "26133 Business Information Analysis",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/26134.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=26134",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24109",
+    "title": "Marketing and Customer Value",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24109.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24109",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24109.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "24108 Marketing Foundations"
+        },
+        "raw_text": "24108 Marketing Foundations",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24109.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24109",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25300",
+    "title": "Fundamentals of Business Finance",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25300.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25300",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25300.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25300",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "22208",
+    "title": "Accounting, Business and Society",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/22208.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=22208",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "22108",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "22108",
+              "timing": "concurrent"
+            }
+          ]
+        },
+        "raw_text": "22108 Accounting and Accountability OR 22108c Accounting and Accountability The lower case 'c' after the subject code indicates that the subject is a corequisite. See definitions for details. These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/22208.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "22207 Accounting for Business Decisions B"
+        },
+        "raw_text": "22207 Accounting for Business Decisions B",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/22208.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=22208",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21214",
+    "title": "Business and Social Impact",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21214.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21214",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21214.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21214",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21227",
+    "title": "Innovation and Entrepreneurship",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21227.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21227",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21227.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21227",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21228",
+    "title": "Management Consulting",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21228.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21228",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21228.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21228",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21440",
+    "title": "Management Skills",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21440.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21440",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21440.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21440",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21504",
+    "title": "Management Capstone",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21504.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21504",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "manual",
+          "text": "( 21512 Understanding Organisations: Theory and Practice AND 21511 Global Operations and Supply Chain Management AND (42 credit points of completed study in 42Credit Points spk(s): MAJ08438 c Management major BBus OR 66 credit points of completed study in 66Credit Points spk(s): MAJ08046 c Extended Management major BBus)) The lower case 'c' after the subject code indicates that the subject is a corequisite. See definitions for details. These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions ."
+        },
+        "raw_text": "( 21512 Understanding Organisations: Theory and Practice AND 21511 Global Operations and Supply Chain Management AND (42 credit points of completed study in 42Credit Points spk(s): MAJ08438 c Management major BBus OR 66 credit points of completed study in 66Credit Points spk(s): MAJ08046 c Extended Management major BBus)) The lower case 'c' after the subject code indicates that the subject is a corequisite. See definitions for details. These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21504.html",
+        "review_status": "manual_required"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21504",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21510",
+    "title": "Introduction to Strategy",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21510.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21510",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21510.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "21632 Business Strategy and Scenario Planning"
+        },
+        "raw_text": "21632 Business Strategy and Scenario Planning",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21510.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21510",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21511",
+    "title": "Global Operations and Supply Chain Management",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21511.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21511",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21511.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21511",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21512",
+    "title": "Understanding Organisations: Theory and Practice",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21512.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21512",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21512.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "21221 Organisational Structure and Change"
+        },
+        "raw_text": "21221 Organisational Structure and Change",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21512.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21512",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21513",
+    "title": "Business Ethics and Sustainability",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21513.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21513",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21513.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "21226 Sustainable Enterprise"
+        },
+        "raw_text": "21226 Sustainable Enterprise",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21513.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21513",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21555",
+    "title": "Introduction to Human Resource Management",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21555.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21555",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21555.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "21645 Managing Human Resources"
+        },
+        "raw_text": "21645 Managing Human Resources",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21555.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21555",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21591",
+    "title": "Transnational Management",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21591.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21591",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21591.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21591",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21595",
+    "title": "International Management Field Study",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21595.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21595",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21595.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21595",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Summer",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "21644",
+    "title": "Law and Ethics for Managers",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21644.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21644",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21644.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "21665 Managing Legal Issues AND 27628 Law for Leisure, Sport and Tourism AND 70102 Foundations of Law"
+        },
+        "raw_text": "21665 Managing Legal Issues AND 27628 Law for Leisure, Sport and Tourism AND 70102 Foundations of Law",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/21644.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=21644",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "23507",
+    "title": "Time Series Econometrics",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/23507.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=23507",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "23571",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "25503",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "subject",
+              "code": "26134",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "(( 23571 Introductory Econometrics OR 25503 Investment Analysis) AND 26134 Business Statistics) These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/23507.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "25573 Time Series Econometrics"
+        },
+        "raw_text": "25573 Time Series Econometrics",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/23507.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=23507",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24100",
+    "title": "Applied Project in Marketing (Capstone)",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24100.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24100",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "manual",
+          "text": "( 24202 Consumer Behaviour AND 24309 Marketing Research AND 24415 Marketing Planning and Strategy AND (30 credit points of completed study in spk(s): MAJ08441 Marketing Major BBus OR 30 credit points of completed study in spk(s): MAJ08063 Extended Marketing major BBus)) These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions ."
+        },
+        "raw_text": "( 24202 Consumer Behaviour AND 24309 Marketing Research AND 24415 Marketing Planning and Strategy AND (30 credit points of completed study in spk(s): MAJ08441 Marketing Major BBus OR 30 credit points of completed study in spk(s): MAJ08063 Extended Marketing major BBus)) These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24100.html",
+        "review_status": "manual_required"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24100",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24104",
+    "title": "Digital Marketing and Social Media",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24104.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24104",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "24108",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "24109",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "24108 Marketing Foundations OR 24109 Marketing and Customer Value These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24104.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24104",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24202",
+    "title": "Consumer Behaviour",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24202.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24202",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "24108",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "24109",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "24108 Marketing Foundations OR 24109 Marketing and Customer Value These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24202.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24202",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24205",
+    "title": "Business-to-Business Marketing",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24205.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24205",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "24108",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "24109",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "24108 Marketing Foundations OR 24109 Marketing and Customer Value These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24205.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24205",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24210",
+    "title": "Integrated Marketing Communications",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24210.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24210",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "24108",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "24109",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "subject",
+              "code": "24202",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "(( 24108 Marketing Foundations OR 24109 Marketing and Customer Value) AND 24202 Consumer Behaviour) These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24210.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24210",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24211",
+    "title": "Branding",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24211.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24211",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "24108",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "24109",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "24108 Marketing Foundations OR 24109 Marketing and Customer Value These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24211.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24211",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24212",
+    "title": "Entrepreneurial Marketing",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24212.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24212",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "24108",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "24109",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "all",
+              "children": [
+                {
+                  "op": "any",
+                  "children": [
+                    {
+                      "op": "subject",
+                      "code": "54047",
+                      "timing": "prior"
+                    },
+                    {
+                      "op": "subject",
+                      "code": "52663",
+                      "timing": "prior"
+                    }
+                  ]
+                },
+                {
+                  "op": "any",
+                  "children": [
+                    {
+                      "op": "subject",
+                      "code": "54048",
+                      "timing": "prior"
+                    },
+                    {
+                      "op": "subject",
+                      "code": "52664",
+                      "timing": "prior"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "raw_text": "( 24108 Marketing Foundations OR 24109 Marketing and Customer Value)) OR ((54047 Advertising Campaign Practice OR 52663 Strategic Communication Design) AND (54048 Brand Advertising Strategies OR 52664 Branding and Reputation) These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24212.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24212",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24220",
+    "title": "International Marketing",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24220.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24220",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "24108",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "24109",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "24108 Marketing Foundations OR 24109 Marketing and Customer Value These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24220.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24220",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Spring",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      },
+      {
+        "session": "Summer",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24222",
+    "title": "Marketing Channels",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24222.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24222",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "24108",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "24109",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "24108 Marketing Foundations OR 24109 Marketing and Customer Value These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24222.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24222",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24223",
+    "title": "Product Innovation Marketing",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24223.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24223",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "24108",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "24109",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "24108 Marketing Foundations OR 24109 Marketing and Customer Value These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24223.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24223",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24224",
+    "title": "Pricing Strategies and Tactics",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24224.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24224",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "24108",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "24109",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "subject",
+              "code": "24309",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "(( 24108 Marketing Foundations OR 24109 Marketing and Customer Value) AND 24309 Marketing Research) These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24224.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24224",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24306",
+    "title": "Services Marketing",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24306.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24306",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "any",
+          "children": [
+            {
+              "op": "subject",
+              "code": "24108",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "24109",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "24108 Marketing Foundations OR 24109 Marketing and Customer Value These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24306.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24306",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24309",
+    "title": "Marketing Research",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24309.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24309",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "24108",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "24109",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "26134",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "37151",
+                  "timing": "prior"
+                },
+                {
+                  "op": "all",
+                  "children": [
+                    {
+                      "op": "subject",
+                      "code": "33130",
+                      "timing": "prior"
+                    },
+                    {
+                      "op": "subject",
+                      "code": "33230",
+                      "timing": "prior"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "raw_text": "( 24108 Marketing Foundations OR 24109 Marketing and Customer Value)) AND ( 26134 Business Statistics OR 37151 Introduction to Statistics OR ( 33130 Mathematics 1 AND 33230 Mathematics 2) These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24309.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24309",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24331",
+    "title": "Marketing Analytics and Decisions",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24331.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24331",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "24108",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "24109",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "subject",
+              "code": "24309",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "(( 24108 Marketing Foundations OR 24109 Marketing and Customer Value) AND 24309 Marketing Research) These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24331.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24331",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": [
+      {
+        "session": "Autumn",
+        "location": "Historical page; confirm campus",
+        "indicative": true
+      }
+    ]
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "24415",
+    "title": "Marketing Planning and Strategy",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24415.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24415",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "24108",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "24109",
+                  "timing": "prior"
+                }
+              ]
+            },
+            {
+              "op": "subject",
+              "code": "24202",
+              "timing": "prior"
+            }
+          ]
+        },
+        "raw_text": "(( 24108 Marketing Foundations OR 24109 Marketing and Customer Value) AND 24202 Consumer Behaviour) These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/24415.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=24415",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25410",
+    "title": "Applied Financial Decision Making (Capstone)",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25410.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25410",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": [
+            {
+              "op": "subject",
+              "code": "25557",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "25556",
+              "timing": "prior"
+            },
+            {
+              "op": "subject",
+              "code": "25503",
+              "timing": "prior"
+            },
+            {
+              "op": "any",
+              "children": [
+                {
+                  "op": "subject",
+                  "code": "25624",
+                  "timing": "prior"
+                },
+                {
+                  "op": "subject",
+                  "code": "25622",
+                  "timing": "prior"
+                }
+              ]
+            }
+          ]
+        },
+        "raw_text": "( 25557 Corporate Finance: Theory and Practice AND 25556 The Financial System AND 25503 Investment Analysis AND ( 25624 Financial Metrics for Decision Making OR 25622 Quantitative Business Analysis)) These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25410.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25410",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25500",
+    "title": "Strategic Investment Management",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25500.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25500",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25503",
+          "timing": "prior"
+        },
+        "raw_text": "25503 Investment Analysis These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25500.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25500",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25503",
+    "title": "Investment Analysis",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25503.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25503",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25300",
+          "timing": "prior"
+        },
+        "raw_text": "25300 Fundamentals of Business Finance These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25503.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25503",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25556",
+    "title": "The Financial System",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25556.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25556",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25300",
+          "timing": "prior"
+        },
+        "raw_text": "25300 Fundamentals of Business Finance These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25556.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25556",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25557",
+    "title": "Corporate Finance: Theory and Practice",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25557.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25557",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25300",
+          "timing": "prior"
+        },
+        "raw_text": "25300 Fundamentals of Business Finance These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25557.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25557",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25574",
+    "title": "Commercial Bank Management",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25574.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25574",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25556",
+          "timing": "prior"
+        },
+        "raw_text": "25556 The Financial System These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25574.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25574",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25575",
+    "title": "Investment Banking",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25575.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25575",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25556",
+          "timing": "prior"
+        },
+        "raw_text": "25556 The Financial System These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25575.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25575",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25579",
+    "title": "Applied Portfolio Management",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25579.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25579",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25503",
+          "timing": "prior"
+        },
+        "raw_text": "25503 Investment Analysis These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25579.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25579",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25602",
+    "title": "Ethics in Finance",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25602.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25602",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25300",
+          "timing": "prior"
+        },
+        "raw_text": "25300 Fundamentals of Business Finance These requisites may not apply to students in certain courses. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25602.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25602",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25620",
+    "title": "Derivative Securities",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25620.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25620",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25556",
+          "timing": "prior"
+        },
+        "raw_text": "25556 The Financial System These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25620.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25620",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25624",
+    "title": "Financial Metrics for Decision Making",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25624.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25624",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25300",
+          "timing": "prior"
+        },
+        "raw_text": "25300 Fundamentals of Business Finance These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25624.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "25622 Quantitative Business Analysis"
+        },
+        "raw_text": "25622 Quantitative Business Analysis",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25624.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25624",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25625",
+    "title": "UTS Student Managed Fund",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25625.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25625",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25625.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25625",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25626",
+    "title": "Startup Finance",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25626.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25626",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25300",
+          "timing": "prior"
+        },
+        "raw_text": "25300 Fundamentals of Business Finance These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25626.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25626",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "25627",
+    "title": "Responsible Finance",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25627.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25627",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "subject",
+          "code": "25556",
+          "timing": "prior"
+        },
+        "raw_text": "25556 The Financial System These requisites may not apply to students in certain courses. There are course requisites for this subject. See access conditions .",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/25627.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=25627",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "26600",
+    "title": "Business Internship",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/26600.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=26600",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "manual",
+          "text": "48 credit points of completed study in 48 cp Business Faculty Bachelor's Degree OR 72 credit points of completed study in 72 cp Business Faculty Bachelor's Combined Degree OR 72 credit points of completed study in 72 cp Bachelor's Combined Degree with Business Faculty OR 72 credit points of completed study in 72 cp Bachelor's Combined Honours with Business Faculty"
+        },
+        "raw_text": "48 credit points of completed study in 48 cp Business Faculty Bachelor's Degree OR 72 credit points of completed study in 72 cp Business Faculty Bachelor's Combined Degree OR 72 credit points of completed study in 72 cp Bachelor's Combined Degree with Business Faculty OR 72 credit points of completed study in 72 cp Bachelor's Combined Honours with Business Faculty",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/26600.html",
+        "review_status": "manual_required"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "21651 Professional Internship AND 21999 Business Internship AND 22999 Business Internship AND 23999 Business Internship AND 24999 Business Internship AND 25999 Business Internship AND 94680 Entering Professional Life (6cp) AND 94681 Entering Professional Life (8cp)"
+        },
+        "raw_text": "21651 Professional Internship AND 21999 Business Internship AND 22999 Business Internship AND 23999 Business Internship AND 24999 Business Internship AND 25999 Business Internship AND 94680 Entering Professional Life (6cp) AND 94681 Entering Professional Life (8cp)",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/26600.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=26600",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  },
+  {
+    "dataset_id": "uts-2024-business-snapshot",
+    "code": "79014",
+    "title": "Applied Company Law",
+    "credit_points": 6,
+    "faculty": "Business",
+    "study_level": "Undergraduate",
+    "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/79014.html",
+    "access_conditions_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=79014",
+    "requirements_status": "historical_academic_rules_reviewed",
+    "rules": [
+      {
+        "kind": "academic",
+        "expression": {
+          "op": "all",
+          "children": []
+        },
+        "raw_text": "No academic requisites are listed on this historical subject page; admission/access conditions still require verification.",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/79014.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "exclusion",
+        "expression": {
+          "op": "manual",
+          "text": "70417 Corporate Law"
+        },
+        "raw_text": "70417 Corporate Law",
+        "source_url": "https://handbookpre2025.uts.edu.au/2024/subjects/79014.html",
+        "review_status": "historical_source_reviewed"
+      },
+      {
+        "kind": "admission",
+        "expression": {
+          "op": "manual",
+          "text": "Program admission, permissions and exemptions must be confirmed with UTS."
+        },
+        "raw_text": "Historical academic rules only; course-specific admission, access conditions or approvals may additionally apply.",
+        "source_url": "https://studentforms.uts.edu.au/evop/access/search.cfm?subjectcode=79014",
+        "review_status": "manual_required"
+      }
+    ],
+    "offerings": []
+  }
+]

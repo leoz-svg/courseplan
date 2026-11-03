@@ -1,0 +1,6 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';
+import {emptyPlan,restorePlan,courseEligibility,placeCourse} from '../lib/planning.ts';
+const catalog=JSON.parse(await readFile(new URL('../app/data/catalog/program-subjects.json',import.meta.url),'utf8')).filter(c=>c.dataset_id==='uts-2024-design-snapshot');
+function plan(){return {...emptyPlan('uts-2024-design-snapshot',2026),planningMeta:{title:'测试方案',mode:'degree',targetCredits:144,ruleVersion:'2024-test',generatedAt:'2026-11-03T00:00:00Z',modified:false,waivedCodes:['85502','85503'],waiverGroups:{},priorCreditsSnapshot:12}};}
+test('recognized courses satisfy prerequisites without being counted as completed courses',()=>{const p=restorePlan(plan(),catalog);assert.equal(p.completed.length,0);assert.equal(courseEligibility(catalog.find(c=>c.code==='85202'),p,'t1',catalog),'met');assert.equal(placeCourse(p,'85502','t1'),p);assert.deepEqual(p.planningMeta.waivedCodes,['85502','85503']);});
+test('recognized courses cannot also appear as scheduled or completed credit',()=>{const p=plan();p.terms[0].courseCodes=['85502'];assert.throws(()=>restorePlan(p,catalog));const other=plan();other.completed=['85503'];assert.throws(()=>restorePlan(other,catalog));});
